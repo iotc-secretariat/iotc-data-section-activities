@@ -1,22 +1,3 @@
----
-title: "Capacity building activities- 2024"
-#date: "`r Sys.Date()`"
-author: "IOTC Secretariat"
-output:
-  officedown::rdocx_document:
-        reference_docx: "../templates/rdoc_template.docx"
----
-
-
-```{r TextStyleExample, echo = FALSE}
-fp = fp_par(
-  text.align = "center", 
-  padding.bottom = 20, padding.top = 120, 
-  border.bottom = fp_border())
-
-ft = fp_text(shading.color='#3D3BF3', bold = TRUE)
-```
-
 
 # Introduction
 

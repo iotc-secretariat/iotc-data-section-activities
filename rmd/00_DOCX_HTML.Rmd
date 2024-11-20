@@ -2,11 +2,11 @@
 title: "IOTC Data Section Activities and progress on WPDCS recommendations"
 #date: "`r Sys.Date()`"
 author: "IOTC Secretariat"
-#output:
-  #word_document2:
-   # reference_docx: "../templates/rdoc_template.docx"
+output:
+  word_document:
+    reference_docx: "../templates/doc_template.docx"
+   
 ---
-  
 ```{r general_options, echo=FALSE}
 knitr::opts_chunk$set(
   echo = FALSE,

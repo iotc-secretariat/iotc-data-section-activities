@@ -9,7 +9,7 @@ setwd("..")
 
 # DOCX
 render("rmd/00_DOCX_HTML.Rmd",
-       output_format = "rdocx_document", 
+       output_format = "word_document", 
        output_dir    = "outputs/", 
        output_file   = paste0("IOTC-2024-WPDCS20-07 IOTC Data Section Activities and progress", ".docx")
 )
