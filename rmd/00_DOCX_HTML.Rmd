@@ -1,0 +1,56 @@
+---
+title: "IOTC Data Section Activities and progress on WPDCS recommendations"
+#date: "`r Sys.Date()`"
+author: "IOTC Secretariat"
+#output:
+  #word_document2:
+   # reference_docx: "../templates/rdoc_template.docx"
+---
+  
+```{r general_options, echo=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  tidy = TRUE,
+  tidy.opts = list(width.cutoff = 60),
+  size = 'small',
+  
+  tab.cap.pre = "Table ",
+  tab.cap.sep = ". ",
+  tab.cap.style ='Table Caption',
+  
+  fig.cap.style = "Caption label",
+  fig.cap.pre = "Fig. ", 
+  fig.cap.sep = ". ",
+  
+  fig.width   = 8,
+  fig.height  = 4.5
+)
+
+knit_hooks$set(
+  inline = function(x) {
+    #prettyNum(x, big.mark = ",")
+    prettyNum(x, big.mark = "")
+  }
+)
+```
+
+```{r child = "01_all_INTRO.Rmd"}
+```
+
+```{r child = "02_all_CB.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "03_CB_APPENDIX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "04_PROG_APPENDIX.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "05_REQU_APPENDIX.Rmd"}
+```

@@ -1,0 +1,223 @@
+---
+title:  " Overview of fisheries data available for CPCs"
+---
+  
+```{r general_options,echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, tidy.opts = list(width.cutoff = 60), tidy = TRUE)#, size = "small", fig.width = 20, fig.height = 25.75,  out.width = "1080px")
+
+#dpi = 300, "940px", out.height = "529px")
+
+#knit_hooks$set(inline = function(x) {prettyNum(x, big.mark = ",")})
+```
+
+---
+
+## Purpose
+
+To present a summary of fisheries data reported by CPCs present at the workshop (Eastern region)
+
+## Contents:
+
+- summary of data status
+- Active fishing vessels
+- New fishery code - example
+- Availability of annual retained catch
+- Availability of geo-reference catch and effort
+- Availability of size frequency
+
+---
+
+## summary of data status
+
+- Fisheries are of various type, with mainly coastal fisheries, although not all CPCs report information for the coastal fisheries
+
+- Information on industrial vessels are available in details. Whereby, mainly longliners are operating in the Eastern Indian, both deep-freezing, and fresh longline vessels
+
+
+- Spatial catches are well available for industrial fisheries
+
+---
+
+## summary of data status...CONT
+
+- Spatial catches for coastal fisheries are either not provided or low coverage in some cases, with only `r round((((CA_RAW_SUM[YEAR == 2022 & FISHERY_TYPE_CODE =="ART", sum(CATCH)])/(RC_RAW_SUM[YEAR == 2022 & FISHERY_TYPE_CODE =="ART", sum(CATCH)]))*100),2)`% of total retained catches.
+
+
+- Spatial catches for the industrial longline are more representative of the retained catches reported for longline, although not all CPCs reported raised spatial catch.
+
+- Spatial catches for the industrial purse seine, on the other hand, are far less representative of the retained catches reported for longline, at `r round((((CA_RAW_SUM[YEAR == 2022 & GEAR_CODE =="PS", sum(CATCH)])/(RC_EST_SUM[YEAR == 2022 & GEAR_CODE =="PS", sum(CATCH)]))*100),2)`% of the total catch purse seine catch reported. 
+
+---
+
+- Spatial catch and effort information of small scale fisheries, particularly handline and coastal longline indicated that fisheries operated beyond their national jurisdiction 
+
+- Size frequency data are available for several fisheries, although low coverage in some cases
+
+---
+
+## Active fishing vessels
+
+---
+
+### Gillnet fisheries
+```{r FC1, tab.cap ="Number of gillnet vessels reported by CPCs for the period 2010-2022"}
+FC_STATUS_SUM_COAST_GN
+```
+
+---
+
+### Baitboat fisheries
+```{r FC5, tab.cap ="Number of baitboat  vessels reported by CPCs for the period 2010-2022"}
+FC_STATUS_SUM_COAST_BB
+```
+
+---
+
+### Line and other fisheries
+```{r FC2, tab.cap ="Number of line and other vessels reported by CPCs for the period 2010-2022"}
+FC_STATUS_SUM_COAST2
+```
+
+---
+
+### Longline fisheries
+```{r FC3, tab.cap ="Number of longline vessels reported by CPCs for the period 2010-2022"}
+FC_STATUS_SUM_COASTLL
+```
+
+---
+
+### Purse seine fisheries
+```{r FC4, tab.cap ="Number of purse seine vessels reported by CPCs for the period 2010-2022"}
+FC_STATUS_SUM_COASTPS
+```
+---
+
+# New fishery code - expected
+
+---
+
+## Coastal fisheries
+```{r NFIS1,  tab.cap = "Expected fishery codes to use for coastal and industrial " }
+Fishery_newGN
+```
+
+---
+
+## Longline fisheries
+```{r NFIS2,  tab.cap = "Expected fishery codes to use for coastal and industrial " }
+Fishery_newL
+```
+
+---
+
+## Surface fisheries
+```{r NFIS3,  tab.cap = "Expected fishery codes to use for coastal and industrial " }
+Fishery_newS
+```
+
+---
+
+# Availability of annual retained catch
+
+```{r RC, fig.cap = "Cumulative time series of annual retained catches (metric tonnes; t) of IOTC species by fishery as reported by CPCs in the Eastern Indian Ocean for the period 2010-2022"}
+include_graphics("../outputs/charts/RC/RC_SUM_YEAR_FISHERY_GROUP_BARCHART.png")
+```
+
+---
+
+# Availability of geo-reference catch and effort
+
+---
+
+## Spatial effort data avaiable - Longline fisheries
+```{r EFLL, fig.cap = "Distribution of effort for longline fisheries   as reported by CPCs in the Eastern Indian Ocean for the period 2021-2022"}
+include_graphics("../outputs/charts/CE/EF_RAW_SUM_LL_HEATMAP_2021_2022.png")
+```
+
+---
+
+## Spatial effort data avaiable - Gillnet fisheries
+```{r EFGN, fig.cap = "Distribution of effort for gillnet fisheries   as reported by CPCs in the Eastern Indian Ocean for the period 2021-2022"}
+include_graphics("../outputs/charts/CE/EF_RAW_SUM_GN_HEATMAP_2021_2022.png")
+```
+
+---
+
+## Spatial effort data avaiable -pole and line fisheries
+```{r EFBB, fig.cap = "Distribution of effort for pole and line fisheries   as reported by CPCs in the Eastern Indian Ocean for the period 2021-2022"}
+include_graphics("../outputs/charts/CE/EF_RAW_SUM_BB_HEATMAP_2021_2022.png")
+```
+
+---
+
+## Spatial effort data avaiable -handline fisheries
+```{r EFHD, fig.cap = "Distribution of effort for handine fisheries   as reported by CPCs in the Eastern Indian Ocean for the period 2021-2022"}
+include_graphics("../outputs/charts/CE/EF_RAW_SUM_HD_HEATMAP_2021_2022.png")
+```
+
+---
+
+# - Availability of size frequency
+
+---
+
+## Annual sample availability
+
+```{r SFAvailability, fig.asp = 0.75, fig.width = 8, fig.cap = "Cumulative annual number of size samples by IOTC species reported for the main fisherie for the period 2005-2022"}
+include_graphics("../outputs/charts/SF/SF_SUM_AVAILABILITY_SPECIES_BARPLOT.png")
+```
+
+---
+
+## Species-specific sampling coverage
+
+---
+
+### Longline fisheries
+
+```{r SFSamplingCoveragernoLL, fig.asp = 0.75, fig.width = 8, fig.cap = "Sampling coverage (number of fish samples per metric tonne; fish/t) for each IOTC species as reported  for the period 2007-2022"}
+  include_graphics("../outputs/charts/SF/SIZE_SAMPLING_COVERAGE_LL.png")
+```
+
+---
+
+### Purse seine fisheries
+
+```{r SFSamplingCoveragernoPS, fig.asp = 0.75, fig.width = 8, fig.cap = "Sampling coverage (number of fish samples per metric tonne; fish/t) for each IOTC species as reported  for the period 2007-2022"}
+  include_graphics("../outputs/charts/SF/SIZE_SAMPLING_COVERAGE_PS.png")
+```
+
+---
+
+### Gillnet fisheries
+
+```{r SFSamplingCoveragernoGN, fig.asp = 0.75, fig.width = 8, fig.cap = "Sampling coverage (number of fish samples per metric tonne; fish/t) for each IOTC species as reported  for the period 2007-2022"}
+  include_graphics("../outputs/charts/SF/SIZE_SAMPLING_COVERAGE_GN.png")
+```
+
+---
+
+### Coastal longline fisheries
+
+```{r SFSamplingCoveragernoLC, fig.asp = 0.75, fig.width = 8, fig.cap = "Sampling coverage (number of fish samples per metric tonne; fish/t) for each IOTC species as reported  for the period 2007-2022"}
+  include_graphics("../outputs/charts/SF/SIZE_SAMPLING_COVERAGE_LIC.png")
+```
+
+---
+
+### Trolling fisheries
+
+```{r SFSamplingCoveragernoTL, fig.asp = 0.75, fig.width = 8, fig.cap = "Sampling coverage (number of fish samples per metric tonne; fish/t) for each IOTC species as reported  for the period 2007-2022"}
+  include_graphics("../outputs/charts/SF/SIZE_SAMPLING_COVERAGE_LIT.png")
+```
+
+---
+
+### Pole and line fisheries
+
+```{r SFSamplingCoveragernoPL, fig.asp = 0.75, fig.width = 8, fig.cap = "Sampling coverage (number of fish samples per metric tonne; fish/t) for each IOTC species as reported  for the period 2007-2022"}
+  include_graphics("../outputs/charts/SF/SIZE_SAMPLING_COVERAGE_BB.png")
+```
+
+---

@@ -1,0 +1,56 @@
+---
+title: "Capacity building activities- 2024"
+#date: "`r Sys.Date()`"
+author: "IOTC Secretariat"
+output:
+  officedown::rdocx_document:
+        reference_docx: "../templates/rdoc_template.docx"
+---
+
+
+```{r TextStyleExample, echo = FALSE}
+fp = fp_par(
+  text.align = "center", 
+  padding.bottom = 20, padding.top = 120, 
+  border.bottom = fp_border())
+
+ft = fp_text(shading.color='#EFEFEF', bold = TRUE)
+```
+
+
+# Introduction
+
+As part of the Data Section's activities, we provide technical assistance and support to Contracting Parties and Cooperating Non-Contracting Parties (CPCs) to enhance their ability to report fisheries data in accordance with Indian Ocean Tuna Commission (IOTC) resolutions. This includes direct requests for assistance from CPCs, as well as requests from the Science Working Groups, which align with the work plan and priorities aimed at improving data related to specific working groups or all species. This paper provides an overview of the Data Section's activities for the year 2024, along with updates on data-related requests from other working parties and progress on recommendations from last Working party on Data Collection and Statistics (WPDCS19).
+
+# Background
+
+## Data section activities
+
+The Data Section of the IOTC Secretariat carried out various activities aimed at improving the quality of data reported by CPCs, particularly concerning fisheries that catch IOTC species. These activities primarily involved direct meetings with CPCs or other organizations interested in IOTC data. In cases where the Secretariat observes a consistent decline in data quality from a CPC, it will request closer collaboration with the CPC to address and improve the data reporting process. 
+
+In 2024, the Data Section participated in 14 major activities, categorized into technical assistance, workshops, and external meetings. These activities took place through in-country missions, webinars, or meetings with CPC representatives at the Secretariat office (**Table \@ref(tab:DSActivities)**). The Capacity Building section provides an overview of each mission conducted in 2024, including key outcomes. The workshop section provide summary the two main workshops on data reporting held in 2024.
+
+
+```{r DSActivities, tab.id = "DSActivities", tab.cap = "Summary of data section activities held in 2024 "}
+CB_summary
+```
+
+## Progress made on the recommendations of WPDCS19
+
+During WPDCS19, seven recommendations were made to the Scientific Committee (SC20). Some of these recommendations were endorsed by the SC, while others were forwarded to the IOTC Session (S28) for further approval. Progress on the key recommendations is summarized in **Table \@ref(tab:DProgress)**. [Appendix 2](#RECOM) lists the recommendations with reviews of the progress made, and, where applicable, proposes alternative recommendations for the participants to endorse.
+
+```{r DProgress, tab.id = "DProgress", tab.cap = "Summary on progress made on WPDCS19 recommendations"}
+PR_num_prog
+```
+
+## Data request from other working party meetings
+
+To improve the quality and availability of data for stock assessments of IOTC species, the working parties made specific requests to the Working Party on Data Collection (WPDCS) to provide or improve certain data. In many instances, this involves liaising directly with CPCs to fulfill these requests. There are occasions when the Data Section must launch specific projects or create special formats to request the data. However, not all CPCs are willing to provide the required information. In addition to the working parties, the Scientific Committee (SC) also makes follow-up requests to WPDCS. During the last SC session and from subsequent working parties, 16 data-related requests were made (**Table \@ref(tab:DRequest)**), with detailed information provided in [appendix 3](#DataAv).
+
+```{r DRequest, tab.id = "DRequest", tab.cap = "Number of data requests made to WPDCS"}
+DR_num_para
+```
+
+
+
+

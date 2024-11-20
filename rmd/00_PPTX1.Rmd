@@ -1,0 +1,78 @@
+---
+title: " Overview of fisheries data available for CPCs"
+
+#bibliography: ../TZA.bib
+#link-citations: yes
+---
+  
+```{r general_options,echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, tidy.opts = list(width.cutoff = 60), tidy = TRUE, size = "small", fig.width = 12, fig.height = 10.75,  out.width = "1080px")
+
+#dpi = 300, "940px", out.height = "529px")
+
+#knit_hooks$set(inline = function(x) {prettyNum(x, big.mark = ",")})
+```
+
+---
+
+## Purpose
+
+To present a summary of fisheries data reported by CPCs present at the workshop (Eastern region)
+
+## Contents:
+
+- summary of data status
+- Active fishing vessels
+- New fishery code - example
+- Availability of annual retained catch
+- Availability of geo-reference catch and effort
+- Availability of size frequency
+
+---
+
+## summary of data status
+
+•	The tuna fisheries of Eastern CPCs caught about 998,000 t of IOTC species in 2022, representing 48.69% of the total IOTC catch.
+•	The industrial fisheries from the CPCs present, represent only 29.32% of the total catch in the Eastern Indian Ocean.
+•	Fisheries are of various type, with mainly coastal fisheries, although not all CPCs report information for the coastal fisheries
+•	Information on industrial vessels are available in details. Whereby, mainly longliners are operating in the Eastern Indian, both deep-freezing, and fresh longline vessels
+•	Spatial catches are well available for industrial fisheries
+•	Spatial catches for coastal fisheries are either not provided or low coverage in some cases, with only 19.84% of total retained catches.
+
+---
+
+## summary of data status...CONT
+
+•	Spatial catches for the industrial longline are more representative of the retained catches reported for longline, although not all CPCs reported raised spatial catch.
+•	Spatial catches for the industrial purse seine, on the other hand, are far less representative of the retained catches reported for longline, at 4.75% of the total catch purse seine catch reported.
+•	Spatial catch and effort information of small scale fisheries, particularly handline and coastal longline indicated that fisheries operated beyond their national jurisdiction
+•	Size frequency data are available for several fisheries, although low coverage in some cases
+
+---
+
+## Active fishing vessels
+
+```{r FC, tab.cap ="Number of active vessels reported by CPCs for the period 2010-2022"}
+FC_STATUS_SUM2
+```
+
+---
+
+# New fishery code - expected
+
+```{r NFIS,  tab.cap = "Expected fishery codes to use for coastal and industrial " }
+Fishery_newALL
+```
+---
+
+# Availability of annual retained catch
+
+```{r RC, fig.cap = "Cumulative time series of annual retained catches (metric tonnes; t) of IOTC species by fishery as reported by Indonesia for the period 2010-2022"}
+include_graphics("../outputs/charts/RC/RC_SUM_YEAR_FISHERY_BARCHART.png")
+```
+---
+
+# Availability of geo-reference catch and effort
+
+
+
