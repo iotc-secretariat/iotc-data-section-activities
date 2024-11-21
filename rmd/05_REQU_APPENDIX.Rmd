@@ -1,9 +1,0 @@
-<!---BLOCK_LANDSCAPE_START--->
-
-# Appendix III: Data related requests from other meetings {#Datarequest}
-
-
-```{r Datarequest}
-DR_summary
-```
-<!---BLOCK_LANDSCAPE_STOP--->

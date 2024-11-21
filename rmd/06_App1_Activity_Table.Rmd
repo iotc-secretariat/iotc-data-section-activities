@@ -1,0 +1,6 @@
+# Appendix I: Main Activities related of the Data Section carried out in 2024 {#AppDataSectionActivities}
+
+```{r ActivityTable, tab.id = "ActivityTable"}
+ACTIVITY_TABLE_FT
+```
+

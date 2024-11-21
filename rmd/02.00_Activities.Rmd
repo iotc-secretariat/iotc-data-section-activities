@@ -1,0 +1,11 @@
+# Data Section Activities
+
+The Data Section of the IOTC Secretariat carries out various activities aimed at improving the quality of data reported by CPCs, with a major focus on coastal fisheries. These activities primarily involve the CPCs and other organisations interested in IOTC data (e.g., FAO, NGOs, Universities). In cases where the Secretariat observes consistent issues in data availability and quality from a CPC, it will request closer collaboration with the CPC to address and improve the data collection and reporting processes.
+
+In 2024, the Data Section participated in 15 major activities, categorised into technical support, workshops, and external meetings. These activities took place through in-country missions, webinars, or meetings with CPC representatives at the Secretariat headquarters (**Table \@ref(tab:DSActivities)**).
+
+\pagebreak
+
+```{r DSActivities, tab.id = "DSActivities", tab.cap = "Summary of Data Section activities in 2024"}
+ACTIVITY_SUMMARY_FT
+```

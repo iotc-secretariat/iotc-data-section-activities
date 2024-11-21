@@ -1,0 +1,23 @@
+## Data Reporting Workshops
+
+In 2024, the Data Section of the Secretariat conducted two regional data reporting workshops aimed at familiarizing the CPCs with the newly implemented data reporting system.  The workshops were held in two regions:
+  
+- **[Eastern Regional Reporting Workshop](https://iotc.org/meetings/iotc-eastern-regional-workshop-enhancing-fisheries-data-reporting)**: Held in Thailand from April 15 to 18, 2024, with 12 participants from eight countries: China, Indonesia, Malaysia, Maldives, Pakistan, Sri Lanka, Philippines, and Thailand.
+
+- **[Western Regional Reporting Workshop](https://iotc.org/meetings/iotc-western-regional-workshop-enhancing-fisheries-data-reporting)**: Held in Kenya from May 27 to 30, 2024, with 17 participants from 12 countries: Comoros, European Union, Islamic Republic of Iran, Kenya, Madagascar, Mozambique, Oman, Seychelles, Somalia, Tanzania, Bangladesh, and India.
+
+The workshops the different aspects of the data reporting flow:
+  
+- **[New Data Reporting Forms](https://data.iotc.org/reference/latest/forms/)**: Excel spreadsheets with separate worksheets for metadata and data reporting
+
+- **[Reference Data Catalogue](https://data.iotc.org/reference/latest/)**: A comprehensive list of codes used for reporting fisheries data, accessible on the website, with descriptions of each code
+
+- **[Fisheries Identification Wizard](https://data.iotc.org/fisheries/wizard/en/)**: A tool to assist CPCs in defining fishery codes based on the characteristics of each fishery
+
+- **[Data Reporting Guidelines](https://data.iotc.org/reference/latest/guidelines/)**: An online document outlining the reporting requirements for each dataset
+
+- **[Data Validators](https://data.iotc.org/reference/latest/forms/)**: A tool for CPCs to validate data before submission to the Secretariat.
+
+- **[Spatial Reference Layers](https://data.iotc.org/reference/latest/domain/admin/#Geospatial_Data)**: Guidelines to define the spatial areas of fishing for each CPC.
+
+Participants in both workshops were highly engaged and provided valuable recommendations and proposals for improving the new reporting system. The Secretariat also identified some limitations, particularly with the codes describing fisheries and fishing effort.

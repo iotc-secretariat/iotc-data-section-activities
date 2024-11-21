@@ -1,56 +1,97 @@
 ---
-title: "IOTC Data Section Activities and progress on WPDCS recommendations"
-#date: "`r Sys.Date()`"
-author: "IOTC Secretariat"
+title: "IOTC Data Section Activities and Progress made on the Recommendations from WPDCS"
+author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
 output:
-  word_document:
-    reference_docx: "../templates/doc_template.docx"
-   
+  officedown::rdocx_document:
+    reference_docx: "../templates/rdoc_template.docx"
+reference_num: true
 ---
-```{r general_options, echo=FALSE}
-knitr::opts_chunk$set(
-  echo = FALSE,
-  tidy = TRUE,
-  tidy.opts = list(width.cutoff = 60),
-  size = 'small',
-  
-  tab.cap.pre = "Table ",
-  tab.cap.sep = ". ",
-  tab.cap.style ='Table Caption',
-  
-  fig.cap.style = "Caption label",
-  fig.cap.pre = "Fig. ", 
-  fig.cap.sep = ". ",
-  
-  fig.width   = 8,
-  fig.height  = 4.5
-)
 
-knit_hooks$set(
-  inline = function(x) {
-    #prettyNum(x, big.mark = ",")
-    prettyNum(x, big.mark = "")
-  }
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      tab.cap.pre = "Tab. ", 
+                      tab.cap.sep = ". ", 
+                      tab.cap.style = "Table Caption", 
+                      #tab.cap.fp_text = officer::fp_text_lite(italic = TRUE, bold = TRUE), 
+                      fig.cap = TRUE, 
+                      fig.cap.pre = "Fig. ", 
+                      fig.cap.sep = ". ", 
+                      fig.cap.style = "Caption label",
+                      dpi = 300
 )
 ```
 
-```{r child = "01_all_INTRO.Rmd"}
+```{r Headers, echo = FALSE}
+logo.file = file.path("../templates/FAO_IOTC_LOGOS.png")
+
+bl_header_no_logo = function(txt, position) {
+  block_list(
+    fpar(values = txt, fp_p = fp_par(text.align = position, border.bottom = fp_border()), fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 14))
+  )
+}
+
+bl_header_with_logo = function(txt, position) {
+  block_list(
+    fpar(external_img(src = logo.file, height = 0.71, width = 7.19, unit = "in"), 
+    ftext = txt, 
+         fp_p = fp_par(text.align = position, border.bottom = fp_border()), 
+         fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 14)))
+}
+
+sec_pr = officer::prop_section(
+  header_first = bl_header_with_logo("IOTC-2024-WPDCS20-07", "right"),
+  header_default = bl_header_no_logo("IOTC-2024-WPDCS20-07", "right")
+)
 ```
 
-```{r child = "02_all_CB.Rmd"}
+```{r TextStyles, echo = FALSE}
+fp = fp_par(
+  text.align = "center", 
+  padding.bottom = 20, padding.top = 120, 
+  border.bottom = fp_border())
+
+alert = fp_text(shading.color = "transparent", bold = TRUE, color = "red")
+underline = fp_text(underlined = TRUE)
+```
+
+```{r, echo = FALSE, eval = TRUE}
+block_section(sec_pr)
+```
+
+```{r child = "01_Introduction.Rmd"}
+```
+
+```{r child = "02.00_Activities.Rmd"}
+```
+
+```{r child = "02.01_Support.Rmd"}
+```
+
+```{r child = "02.02_Workshops.Rmd"}
+```
+
+```{r child = "03_Requests.Rmd"}
+```
+
+```{r child = "04_Progress.Rmd"}
+```
+
+```{r child = "05_Conclusions.Rmd"}
+```
+
+<!---BLOCK_LANDSCAPE_START--->
+
+```{r child = "06_App1_Activity_Table.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "03_CB_APPENDIX.Rmd"}
+```{r child = "07_App2_Request_Table.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "04_PROG_APPENDIX.Rmd"}
+```{r child = "08_App3_Progress_Table.Rmd"}
 ```
 
-\pagebreak
-
-```{r child = "05_REQU_APPENDIX.Rmd"}
-```
+<!---BLOCK_LANDSCAPE_STOP--->

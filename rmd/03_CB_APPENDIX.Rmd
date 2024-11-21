@@ -1,8 +1,0 @@
-<!---BLOCK_LANDSCAPE_START--->
-
-# Appendix I: Data Section activities in 2024 {#DataAv}
-
-```{r DataAv}
-CB_table
-```
-<!---BLOCK_LANDSCAPE_STOP--->

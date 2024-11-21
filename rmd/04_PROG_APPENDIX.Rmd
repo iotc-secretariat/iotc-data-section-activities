@@ -1,8 +1,0 @@
-<!---BLOCK_LANDSCAPE_START--->
-
-# Appendix II: Progress made on WPDCS19 recommendations {#RECOM}
-
-```{r RECOMM}
-PR_summary
-```
-<!---BLOCK_LANDSCAPE_STOP--->
