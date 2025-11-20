@@ -1,4 +1,14 @@
 ## Data Reporting Workshops
 
-In 2025, the Data Section of the Secretariat conducted one data reporting workshops aimed at familiarizing the CPCs with the newly implemented data reporting system. Furthermore, assisted with two species identification workshops. The workshop related to data reporting guidelines held Indonesia and the ones related to species identification workshops in Sri Lanka and India:
+ 
+The IOTC Data Reporting Workshop, held in Jakarta from 26 to 30 May 2025, brought together 32 participants from 18 CPCs to strengthen the reporting of fishery statistics. The workshop was successful in improving understanding and use of IOTC reporting forms, supported by hands-on exercises using Secretariat-developed tools such as data validators and spatial grid mapping aids. Key datasets discussed included annual retained catch, geo-referenced catch and effort, size frequency, FAD-related data, and artisanal landings monitoring, along with fishing craft
+statistics. Thanks to active participant engagement, several code lists were updated and improvements were agreed on for some of the reporting forms. The Secretariat also presented updates on data compliance assessments and proposed CPC factsheets, The workshop concluded with discussions on persistent challenges, tool
+enhancements, and priorities for assit the CPCs on reproting data to the Secretariat.
+
+the IOTC Secretariat organized two species identification and sampling workshops in Sri Lanka and India [Appendix 1](#AppDataSectionActivities) which aims to develop capacity for coastal CPCs as a Training of Trainers (ToT), expecting that the workshop participants will be able to train enumerators in species identification and sampling in their own countries. The workshops also provided training on basic sampling protocols, including best practices on measuring techniques for specimens and collecting hard (e.g., otoliths) and soft (e.g., muscle) tissue samples to support the development of large-scale regional sampling programs endorsed by the Scientific Committee. 
+
+The training sessions were developed by external tuna and sharks and ray’s specialists, and the Data section assisted the lecturers and presented an overview of the problems associated with species identification and sampling programmes in the data reported by the CPCs.
+
+
+
   
