@@ -1,4 +1,8 @@
-# Progress Made on the Recommendations from WPDCS19
+# Progress Made on the Recommendations from WPDCS20
 
-During the WPDCS19, seven recommendations were made to the SC20. Some of these recommendations were endorsed by the SC, while others were forwarded to the Commission (S28) for further approval. **[Appendix 3](#RecProgress)** lists the recommendations with reviews of the progress made, and, where applicable, proposes alternative recommendations for the participants to endorse.
 
+During WPDCS20, five recommendations were submitted to the Scientific Committee (**Table \@ref(tab:DProgress)**), categorized under several themes, in addition to the recommendations included in the Programme of Work and the final report of WPDCS20. The progress made on these recommendations is further reviewed, and, where appropriate, alternative recommendations are proposed for participants to consider and endorse. The progress on each recommendation is presented in [appendix II](#RECOM).
+
+```{r DProgress, tab.id = "DProgress", tab.cap = "Summary on progress made on WPDCS19 recommendations"}
+PR_num_prog
+```

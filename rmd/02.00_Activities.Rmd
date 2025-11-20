@@ -1,11 +1,141 @@
-# Data Section Activities
+# Capacity building Activities of the data section
 
-The Data Section of the IOTC Secretariat carries out various activities aimed at improving the quality of data reported by CPCs, with a major focus on coastal fisheries. These activities primarily involve the CPCs and other organisations interested in IOTC data (e.g., FAO, NGOs, Universities). In cases where the Secretariat observes consistent issues in data availability and quality from a CPC, it will request closer collaboration with the CPC to address and improve the data collection and reporting processes.
+The Data Section of the IOTC Secretariat undertook a range of activities in 2025 aimed at improving the quality of data reported by CPCs, particularly for fisheries catching IOTC species. These activities primarily involved direct engagement with CPCs and with other organisations that have an interest in IOTC data. In cases where the Secretariat observed a continued decline in the quality of data submitted by a CPC, the Secretariat initiated collaboration to support improvements in their reporting systems.
 
-In 2024, the Data Section participated in 15 major activities, categorised into technical support, workshops, and external meetings. These activities took place through in-country missions, webinars, or meetings with CPC representatives at the Secretariat headquarters (**Table \@ref(tab:DSActivities)**).
+In 2025, the Data Section conducted five capacity-development missions, organised two data-focused workshops, participated in seven meetings with other fisheries organisations, and collaborated with FAO and several non-governmental organisations on data-related matters (**Table \@ref(tab:DSActivities)**).
 
-\pagebreak
+The capacity-development section in [Appendix I](#DataAv), provides an overview of the capacity-development missions carried out in 2025 and summarises their key outcomes.
 
-```{r DSActivities, tab.id = "DSActivities", tab.cap = "Summary of Data Section activities in 2024"}
-ACTIVITY_SUMMARY_FT
+
+```{r DSActivities, tab.id = "DSActivities", tab.cap = "Summary of data section activities held in 2025"}
+CB_summary
 ```
+
+## Madagascar
+
+### Overview of the mission
+
+The objectives of the mission were to: 
+
+  - Assessing Madagascar’s data collection, recording, and processing systems, including the use of electronic tools 
+  
+  - Identifying data gaps and understanding the factors contributing to inconsistencies in reported data 
+  
+  - Evaluating the most effective approaches for processing and reporting fisheries data 
+  
+  - Assessing the status of Madagascar’s national fisheries observer program and its linkage to the IOTC Regional Observer Scheme. 
+
+  - Provide information on IOTC data reporting obligations pertaining to purse seine fisheries, following reports that two large-scale vessels from the EU might be flagged in Madagascar. 
+
+The main activities entailed:
+
+ - Discussion with officers from various fisheries sectors and government departments. The officials expressed concern over the state of data collection in the fisheries sector, especially following the reduction in the sector’s budget and the closure of four research centres in 2021,including the Unité Statistique Thonière d’Antisranana (USTA) which was in charge of data collection and reporting for the tuna fisheries during 2017-2020. The government outlined plans to improve the system in smaller regions and focus on more productive areas, which include hiring and training of local enumerators to collect data region-wise; and the use of electronic tools, such as Calipseo. Three national framework surveys (“Enquêtes cadres”) were conducted in 1988, 2012, and 2023 in the country to assess the extent of fishing vessels and activities. Furthermore, Madagascar was made aware of the reporting requirements for purse seine fisheries, as they plan to initiate industrial purse seine fisheries. 
+
+ - Visits to landing sites: Due to the extensive network of landing sites and the locations of the main fisheries offices, visiting landing sites was an essential initial activity. Two sites in Mahajanga City (Antsahabingo and Antsanitia in the Boeny area) were visited, with guidance from the regional manager for Boeny, the head of Statistics for the Ministry of Blue Economy, and the head of regional fisheries. 
+
+### Outcomes and recommendations
+
+ During the mission, several gaps were identified. Although addressing these challenges will be difficult, the Secretariat will work closely with the officers to implement the following follow-up actions: 
+
+- Data mining to identify any information that could help re-estimate historical catches, which are currently repeated in the IOTC database 
+
+- Re-estimation of catches using data collected through the catch assessment survey, boat frame survey, and the latest data from new electronic tools 
+
+- Collaboration with Madagascar fisheries officers to estimate 2024 catch data based on the limited information collected (October 2024 to March 2025) 
+
+ - Coordination with local experts who develop modules for collecting size-frequency data, ensuring continuity of the work 
+
+ - Review of data collection methodology to enhance our understanding of the coverage and its effects on catch estimates 
+
+ - Explore the implementation of the R version of data processing for artisanal fisheries recently developed by FAO (https://github.com/fdiwg/artfishr) 
+
+ - Proposal for a fisheries officer from Madagascar to work as an intern for at least one month in the data section of the IOTC Secretariat to gain insight into data processing. 
+
+
+## Indonesia
+
+### Overview of the mission
+
+At its 20th Session (November 2024), the IOTC Working Party on Data Collection and Statistics (WPDCS) endorsed the methodology and results used to re-estimate Indonesia’s historical catches for the period 1950–2022, while noting that this methodology had not yet been applied to bycatch species ([IOTC-2024-WPDCS20-R; para. 103](https://iotc.org/documents/report-20th-session-iotc-working-party-data-collection-and-statistics)). The catch data submitted by Indonesia for 2023 were still under revision and considered provisional. In the absence of updated guidance from the Scientific Committee, catch estimates for Indonesian coastal fisheries in 2023 were produced by the Secretariat using the legacy data processing procedure ([IOTC–2012–SC15–38](http://www.iotc.org/sites/default/files/documents/2019/02/IOTC-2012-SC15-38E_-_Revision_of_catch_stats_0.pdf)), which has introduced interannual variability across species and gear types and some inconsistencies in the time series. Additionally, the Fisheries Statistics Division of FAO noted significant discrepancies between the data reported in the FAO Global Capture Production database and those held by the IOTC Secretariat. In response, the Secretariat organised an in-country mission to Indonesia with the following objectives: 
+
+  - Understand the reasons for discrepancies between the catch data submitted by Indonesia to the IOTC and those available in the FAO Global Capture Production database 
+  
+  - Define a catch estimation procedure for IOTC species for the year 2023 and for future reporting cycles 
+  
+  - Develop a methodology to estimate historical catches of pelagic sharks for the period 1950–2023. 
+
+The activities focused on reviewing the various data available and methodologies applied
+
+### Outcomes and recommendations
+
+ - Indonesia is expected to finalise the catch estimates for the 16 IOTC species for 2023 using the same methodology applied for the 2010–2022 period, and to submit the revised catch time series using Form 1RC by 31 August 2025.??? 
+
+ - Indonesia is expected to finalise and implement the methodology for estimating catches of pelagic sharks for the period 1950–2023 by 30 October 2025. The Secretariat will remain available online to discuss the methodology and provide guidance to MMAF upon request, subject to staff availability 
+
+ - Once the catches for both IOTC and bycatch species are available for the period 1950-2023, Indonesia is expected to make a full resubmission to FAO with Form NS-1 by 31 December 2025. The Secretariat is expected script to automate the filling of form NS-1. The revised data to FAO will only include the 16 IOTC species. 
+ 
+ 
+## Kenya
+
+### Overview of mission
+
+The objectives of the mission were to: 
+
+  - Assessing Kenya’s data collection, recording, and processing systems, including the use of electronic tools 
+
+  - Identifying data gaps and understanding the factors contributing to the lack of reported data 
+
+  - Training workshop with officers on reporting fisheries data 
+
+  - Assessing the status of Kenya’s national fisheries observer program and its linkage to the IOTC Regional Observer Scheme. 
+
+The workshop was attended by officers from the Kenya Fisheries Service (KeFS) and the State Department for Blue Economy and Fisheries, representing various units, including data and statistics, observer programmes, research, and compliance.
+
+The principal activities focused on discussions related to IOTC data requirements and Kenya’s current data collection and processing systems. A key component of the workshop involved training participants on the reporting procedures for all IOTC datasets, including those required under the Regional Observer Scheme.
+
+During the workshop, the Secretariat was also briefed on the new developments in Kenya’s fisheries database management system, which aims to integrate all national data collection and reporting processes. The system is being developed using the CALIPSEO tool created by FAO.
+
+
+### Outcomes and recommendations
+
+The mission focused primarily on hands-on training for data reporting and a review of existing data collection systems. Gaps in historical data were highlighted, and several follow-up actions were identified to address these issues. Future activities will include: 
+
+  - Data mining to identify information that can support the re-estimation of historical catches and help eliminate inconsistencies. 
+
+  - Reviewing industrial longline data to improve the accuracy and completeness of past reporting. 
+
+  - Coordinating with observer program officers to ensure proper reporting of Regional Observer Scheme (ROS) data. 
+
+  - Observing the progress of Kenya’s fisheries database management platform. 
+
+
+## India
+
+### Overview of mission
+
+A technical meeting was held between the Secretariat and representatives from various Indian fisheries departments involved in collecting and submitting data to the IOTC Secretariat. The objective was to review the data submitted by India for the statistical year 2024, assess its quality, and identify practical steps to improve future reporting. 
+
+
+The meeting covered the following key areas: 
+
+  - A briefing on IOTC data reporting tools, including: Data reporting guidelines; Fishery Wizard; Reference data; and form pages and their descriptions. 
+  - Evaluation of the quality of India’s submissions for the three primary datasets: 1RC (Retained Catch); 3CE (Catch and Effort); and 4SF (Size Frequency) 
+
+ -  Discussion on the potential for disaggregating catch data by species and by fisheries, using sampling data collected in Indian waters to enhance reporting by both fishery and species. 
+
+ - Clarification of requirements for spatial and temporal resolution of data. 
+
+ - Emphasis on the importance of completing datasets with all mandatory information to ensure compliance and improve the utility of the data. 
+
+###  Outcomes and recommendations
+
+ - India will liaise with the Secretariat for the shapefiles of fishing grounds, particularly for coastal fisheries operating in irregular spatial areas. 
+ - Missing information in the submitted forms will be completed. 
+
+- Data will be aggregated by fishing ground where appropriate. 
+
+- Revised versions of Forms 1RC, 3CE, and 4SF for the year 2024 will be re-submitted. 
+
+In addition to these actions, India is currently in the process of developing a new Electronic Monitoring System (EMS) for data collection, which they planned to present at the upcoming Working Party of Data Collection and Statistics (WPDCS21). This system aims to support field data collectors at landing sites and enhance the quality and consistency of fisheries data gathered at the national level. 
+
+

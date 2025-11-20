@@ -1,5 +1,5 @@
 # Prevents formatting of numbers using scientific notation
-options(scipen = 99999)
+options(scipen = 9999)
 
 # Install/load libraries
 source("91_LIBS_IOTC.R")

@@ -1,100 +1,14 @@
 ## Technical Support
 
-Providing support to CPCs is crucial for enhancing the quality of data used for assessments. In 2024, the section conducted seven in-country missions and two technical meetings with CPCs at the Secretariat office. The section also participated in data-related meetings, primarily online, to stay updated on developments across various domains of the fisheries sector. Details of the main activities, categorised by type and date, are provided in [Appendix 1](#AppDataSectionActivities).
+Providing support to CPCs is crucial for enhancing the quality of data used for assessments. In 2025, the section conducted four technical meetings with CPCs, in webinar. The section also participated in data-related meetings, primarily online, to stay updated on developments across various domains of the fisheries sector. Details of the main activities, categorized by type and date, are provided in [Appendix 1](#AppDataSectionActivities).
 
-### Meetings at IOTC headquarters
+### Virtual Technical meetings
 
-A two-day meeting was held at the Secretariat's headquarters with representatives from Oman's Ministry of Agriculture, Fisheries, and Water Resources to discuss the status of the national fishery data collection and reporting system in relation with tuna resources and IOTC CMMs. During the meeting, the Secretariat was informed that a comprehensive review was planned to assess and possibly improve their data management system. Preliminary results of the review were presented at the 26^th^ session of the WPTT (see document [IOTC-2024-WPTT26-07](https://iotc.org/documents/review-oman%E2%80%99s-data-collection-system-and-statistics)) and will be discussed during the 20^th^ session of the WPDCS (see document [IOTC-2024-WPDCS20-15](https://iotc.org/meetings/20th-working-party-data-collection-and-statistics-wpdcs20)).
+The focused of the technical meetings were to briefly review the issues identified with the quality of data submitted by the CPCs and in some instances, assessed progress of re-estimation ongoing by CPCs. 
 
-A meeting was organised with Ifremer to discuss ways to improve data reporting for the coastal fisheries of Mayotte and Réunion, France. While there have been notable improvements in data submissions in recent years, some issues persist, primarily due to the multi-gear nature of small-scale coastal fisheries. Additionally, a comprehensive review of historical data held by the IOTC and Ifremer was planned to enhance and harmonise both data sources.
+  - Oman: two virtual meetings in 2025 (June and September) which were to (i) discussion on Oman data reporting obligation for 2024; and (ii) review the current development of Oman data review, data processing currently being developed to revise the historical catch data. Emphasized on the reporting obligation
 
-### Mission in Tanzania, February 2024
-
-Tanzania has received support for its data collection and reporting systems over the past two years. The technical mission in 2024 followed up on the mission conducted in 2023. While Tanzania is among the CPCs with relatively low catches of IOTC species from coastal fisheries, its industrial fisheries are expanding. Despite the low catches, the reported data remain inconsistent in terms of species and fisheries, and some datasets are still not being reported.
-
-In 2019, Tanzania launched a pilot project called eCAS, a mobile app enabling data collectors (enumerators or samplers) to record data at landing sites and upload it directly to a central database. During the Secretariat’s most recent visit, it was noted that eCAS has been upgraded, expanded to additional landing sites, and developed into a fisheries management platform. While the system is well-suited to small-scale fisheries, it records limited information on tuna fisheries. Furthermore, it is designed exclusively for coastal fisheries and does not cover industrial fisheries, which are expected to use logbooks for data collection.
-
-Conflicting information is often found between different reported datasets. For instance, Tanzania’s shark data include both data collected by samplers and data provided by the Wildlife Conservation Society (WCS), which is also collaborating with the Tanzanian government on the National Plan of Action (NPOA) for sharks and rays.
-
-During the 2024 mission, the Secretariat learned that Tanzania plans to conduct a frame survey and undertake a comprehensive revision of its data collection system. A key objective of the mission was to train data reporting officers to enhance the quality of their submissions by addressing errors in previous reports. The training covered techniques for extracting, compiling, and incorporating the required data into the updated reporting forms. As the Secretariat is developing new reporting tools, the training emphasised their effective use.
-
-The recommendations from the mission were as follows:
-
-- Consolidate data available from the WCS with sample data on sharks and rays and raise the total catch figures reported to the Secretariat
- 
-- Integrate data reporting requirements for tuna and tuna-like species into the Fisheries Information Platforms (FiPs)
- 
-- Conduct a comprehensive assessment and re-estimation of coastal fisheries catch data for previous years
- 
-- Follow up with industrial fisheries companies to ensure the timely submission of required data in accordance with reporting guidelines.
-
-### Mission in Bangladesh, March 2024
-
-The technical mission to Bangladesh was conducted following a request for technical support in implementing IOTC CMMs related to statistical data requirements. As one of the newest IOTC members, the mission involved meetings with various officers across multiple locations engaged in data collection. Additionally, landing sites were visited to better understand the structure of Bangladeshi fisheries. During the mission, Secretariat officers gained knowledge of the data collection and reporting systems in Bangladesh, particularly those managed by the Marine Fisheries Survey Management Unit (MFSMU). MFSMU oversees a variety of fisheries assessment activities, including stock assessments for various species, vessel-based surveys, land-based surveys, data management and reporting, analysis of both fishery-dependent and fishery-independent data, and preparation of materials for various meetings, including IOTC scientific sessions.
-
-However, due to the nature of the fisheries, Bangladesh faces several challenges in its data collection system, which hinder the reporting of accurate data. These challenges include:
-
- - Insufficient manpower for future data collection efforts
- - Inadequate, inappropriate, or partial data from certain districts (upazilas)
- - Lack of budget and logistical support in upazilas for data collection
- - Misinterpretation of data collection forms.
-
-The outcomes and recommendations from the mission were as follows:
-
-- The Secretariat gained a better understanding of the institutions involved in fisheries monitoring and management, including technical staff and various infrastructures
+  - Mozambique: reviewing fisheries statistical data submitted by Mozambique for 2024, addressing the gaps and how to improve.
   
-- The main fisheries targeting tuna and tuna-like species include gillnets, set bag nets, and mid-water trawlers, with several species not currently reported to the Secretariat
-
-- The Sustainable Coastal and Marine Fisheries Project (SCMFP) has helped improve the data collection system, resulting in large variability in the reported catches in recent years. This suggests that previous data available to the Secretariat and FAO may have been underestimated
-
-- Support Bangladesh in adopting the new IOTC reporting forms
-
-- Bangladesh needs to estimate catches based on the calendar year rather than the fiscal year
-
-- Follow up on the status of industrial trawlers to determine whether they should be listed under the RAV (Record of Authorised Vessels)
-
-- Promote the use of the Calipseo platform to the Department of Fisheries (DOF) as an appropriate tool for managing data collection and reporting for tuna and tuna-like species.
-
-### Missions in Indonesia, April and October 2024
-
-Indonesia's catches are highly significant in the Indian Ocean, with substantial landings of several IOTC species. However, the complexity of Indonesian fisheries has hindered the collection of accurate fisheries data, resulting in poor quality reporting. In 2024, the Secretariat held several webinars with Indonesia, as well as two in-person missions. The technical support provided to Indonesia focused on re-estimating the catch data for both coastal and industrial fisheries. This is necessary because: (i) all fisheries operate within the National Jurisdiction Area (NJA), (ii) retained catches are estimated broadly for all fisheries, (iii) changes in the catch data of one fishery category affect all other fisheries, and (iv) any modifications to estimation strategies in particular years can lead to inconsistencies in other years. The 2024 missions were prompted by data presented during WPDCS19, which revealed several inconsistencies likely due to gaps in the data collection and/or processing systems over time.
-
-The missions in Indonesia involved reviewing the approach used to address issues identified in the historical catch estimates. It also aimed at developing a methodology for re-estimating catches prior to 2010. During the mission, the Secretariat reviewed the format used for re-estimation, the level of coverage for landing data from logbooks and manual data collection, and the fleet structure used to categorize fisheries. This exercise was hindered by limited historical data collection, scattered repositories, and inconsistencies in data processing.
-
-Indonesia will provide feedback to the WPDCS on the progress made on the re-estimation of the historical catch (see document [IOTC-2024-WPDCS20-16](https://iotc.org/documents/WPDCS/20/16)).
-
-### Mission in Mozambique, May 2024
-
-The mission to Mozambique was conducted following a request for technical assistance to enhance their statistical capabilities and optimize the use of electronic platforms for data submission. This support aims to address the challenges Mozambique faces in fully meeting the data reporting requirements. The last technical data mission in Mozambique was in 2016, which led to some improvements in data reporting. However, in recent years, the quality of the reports from Mozambique has deteriorated, which is concerning, especially as Mozambique is chartering industrial vessels without a clear understanding of the reporting requirements.
-
-The focus of the mission was to review Mozambique's fisheries data collection and processing systems. Prior to the in-person mission, a preliminary webinar was held with fisheries officers involved in data processing. The meetings revealed several challenges that hinder accurate data reporting.
-
-Mozambique established a taskforce consisting of statistical officers, scientists, and managers from various fisheries departments and institutions to address IOTC reporting requirements, including data submission. Fisheries in Mozambique vary by fishing technique and region, and not all fisheries target tuna and tuna-like species. As a coastal state with vast marine areas, fish consumption is vital for local communities, but tuna species account for only a small percentage of total landings. The limited contribution of tuna fisheries means there is less resources on data collection for tuna and tuna-like species. Like other countries, Mozambique is working toward e-collection of data from landing sites.
-
-Currently, data collection is done by enumerators using paper forms, which are then entered into a database system. With the support of other institutions, Mozambique is trying to adopt a common data collection system used by several countries, [OPEN ARTFISH](https://www.fao.org/fishery/en/knowledgebase/152), to improve the digitalization of artisanal fisheries. However, Open ArTfish has limitations in the types of data it collects and processes, particularly in biological sampling data. To compensate for the lack of biological data, the fisheries department relies on the Oceanographic Institute of Mozambique (InOM).
-
-Although Mozambique uses the reporting forms to submit data, the reports are often incomplete and lack key information. Secretariat officers also conducted training for local officers on how to properly fill in the IOTC forms, particularly focusing on the main data reporting requirements such as retained catches, catch and effort, and size frequency. Since Mozambique also has industrial fisheries (both purse seine and longline), the training also covered data reporting for these fisheries. However, it was challenging to fully complete the forms, as the databases lack some of the essential data for coastal fisheries. Furthermore, the fisheries department is not receiving all required information from the industrial fisheries companies.
-
-The following outcomes and recommendations were outlined:
-
-- The Secretariat gained a comprehensive understanding of the institutions involved in the management and monitoring of fisheries in Mozambique, covering the main sectors of the fisheries industry and their respective data collection systems.
-
-- The progress being made to updates on the ongoing database management platform, with the potential integration of a mobile app for data collection
- 
-- Follow-up with Mozambique on the use of various data reporting tools and how these tools can enhance their reporting obligations
- 
-- Encourage Mozambique to participate more actively in IOTC scientific meetings and upcoming regional training on species identification to improve the accuracy of size frequency data reporting.
-
-### Mission in Sri Lanka, September 2024
-
-The Secretariat conducted a support mission in Sri Lanka to assist fisheries officers in understanding the new reporting processes and using the new IOTC reporting tools and updated template forms. In addition to improving data reporting, the mission included assessing the status of the Electronic Monitoring (EM) pilot project in Sri Lanka and reviewing gillnet fisheries data collection for CPUE analysis, with the support of IOTC consultant Dr. Paul Medley.
-
-The main outcomes and recommendations of the mission were as follows:
-
-- The Secretariat gained an insight of Sri Lanka's data collection and processing systems, managed by the Department of Fisheries and Aquatic Resources ([DFAR](https://www.fisheriesdept.gov.lk/)) and of the National Aquatic Resource Research and Development Agency ([NARA](http://www.nara.ac.lk/))
-
-- The Secretariat reviewed Sri Lanka's historical data on tuna and tuna-like species with the aim of improving the accuracy of previously reported data
-
-- Sri Lanka will collaborate with the IOTC consultant to extend the CPUE analysis for developing abundance indices, which will complement those used for the assessments of skipjack and yellowfin tuna
-
-- Sri Lanka aims to continue assessing the interest of EM to monitor their offshore fisheries. This will require to develop and use cost-effective, reliable materials as well as the creation of AI-based methods to support EM data review.
+  - Indonesia: In the ongoing review of the re-estimation process of Indonesia, the Secretariat held two virtual meetings with Indonesia (July & September). The discussions wee Follow-up on re-estimation process to estimate historical shark catch data and IOTC species data beyond 2022.
+  

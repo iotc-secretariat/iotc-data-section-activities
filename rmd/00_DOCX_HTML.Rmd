@@ -3,7 +3,7 @@ title: "IOTC Data Section Activities and Progress made on the Recommendations fr
 author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
-    reference_docx: "../templates/rdoc_template.docx"
+    reference_docx: "../templates/doc_template.docx"
 reference_num: true
 ---
 
@@ -18,29 +18,6 @@ knitr::opts_chunk$set(echo = FALSE,
                       fig.cap.sep = ". ", 
                       fig.cap.style = "Caption label",
                       dpi = 300
-)
-```
-
-```{r Headers, echo = FALSE}
-logo.file = file.path("../templates/FAO_IOTC_LOGOS.png")
-
-bl_header_no_logo = function(txt, position) {
-  block_list(
-    fpar(values = txt, fp_p = fp_par(text.align = position, border.bottom = fp_border()), fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 14))
-  )
-}
-
-bl_header_with_logo = function(txt, position) {
-  block_list(
-    fpar(external_img(src = logo.file, height = 0.71, width = 7.19, unit = "in"), 
-    ftext = txt, 
-         fp_p = fp_par(text.align = position, border.bottom = fp_border()), 
-         fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 14)))
-}
-
-sec_pr = officer::prop_section(
-  header_first = bl_header_with_logo("IOTC-2024-WPDCS20-07", "right"),
-  header_default = bl_header_no_logo("IOTC-2024-WPDCS20-07", "right")
 )
 ```
 

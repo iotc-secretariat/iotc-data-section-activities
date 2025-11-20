@@ -1,102 +1,114 @@
-# Activities ####
 
-## Summary table ####
-ACTIVITY_SUMMARY = data.table(read.xlsx("../data/Data_Section_Activities_2024.xlsx", sep.names = " ", sheet = "summary"))
+## Capacity building
 
-ACTIVITY_SUMMARY_FT = 
-  flextable(ACTIVITY_SUMMARY) %>% 
-  fontsize(part = "header", size = 11) %>% 
-  fontsize(part = "body", size = 9) %>% 
-  flextable::font(part = "all", fontname = "calibri") %>% 
-  border_inner() %>% 
-  border_outer(border = fp_border(width = 2)) %>% 
-  merge_v(j= "Category") %>% 
-  valign(j = "Category", part = "body", valign = "top") %>% 
-  colformat_double(j = NULL, digits = 0) %>% 
-  bg(part = "header", bg = "grey", i=1) %>% 
- # width(j = "Dates", width = 1) %>% 
- # width(j = "Country / CPC", width = 3) %>% 
- # width(j = "Category", width = 2) %>% 
-  width(width = c(2, 2.5, 1, 1.2))
+Capacity_building = data.table(read.xlsx("../Data/CB_activities_2025.xlsx", sep.names = " ", sheet = "CB_summ"))
 
-## Detailed table ####
-ACTIVITY_TABLE = data.table(read.xlsx("../data/Data_Section_Activities_2024.xlsx", sep.names = " ", sheet = "detail"))
+
+
+CB_summary = 
+  flextable(Capacity_building) %>%
+  fontsize(size = 7, part = "header")%>%
+  fontsize(size = 8, part = "body")%>%
+  border_inner() %>%
+  border_outer(border = fp_border(width = 2)) %>%
+  merge_v(j= "Category")%>%
+  valign(j = "Category", part = "body", valign = "top") %>%
+  colformat_double(j = NULL, digits = 0 )%>%
+ # set_table_properties(layout = "autofit", width= 1)%>%
+  bg(part = "header", bg = "grey", i=1)%>%
+  colformat_date(j = "Dates", i = c(9, 10, 13), fmt_date ="%d/%m/%y")%>%
+  width(j = "Dates", width = 1)%>%
+  width(j = "Country / CPC", width = 3)%>%
+  width(j = "Category", width = 2)%>%
+  # bg(j ="Year_sub", part = "body", bg = "darkblue", source = "Year_sub")%>%
+  bg(i= NULL, part = "body", bg = c("lightblue"))#%>%
+  #autofit()
+
+
+#CB table
+
+Capacity_building_table = data.table(read.xlsx("../Data/CB_activities_2025.xlsx", sep.names = " ", sheet = "CB_tab"))
+
+
 
 ACTIVITY_TABLE_FT = 
-  flextable(ACTIVITY_TABLE) %>% 
-  fontsize(part = "header", size = 11) %>% 
-  fontsize(part = "body", size  = 9) %>% 
-  flextable::font(part = "all", fontname = "calibri") %>% 
-  border_inner() %>% 
-  border_outer(border = fp_border(width = 2)) %>% 
-  merge_v(j= "Category") %>%
-  valign(j = "Category", part = "body", valign = "top") %>% 
-  colformat_double(j = NULL, digits = 0 ) %>%  
-  set_table_properties(layout = "autofit", width= 1) %>% 
-  bg(part = "header", bg = "grey", i=1)
+  flextable(Capacity_building_table) %>%
+  fontsize(size = 7, part = "header")%>%
+  fontsize(size = 8, part = "body")%>%
+  border_inner() %>%
+  border_outer(border = fp_border(width = 2)) %>%
+  merge_v(j= "Category")%>%
+  valign(j = "Category", part = "body", valign = "top") %>%
+  colformat_double(j = NULL, digits = 0 )%>%
+  set_table_properties(layout = "autofit", width= 1)%>%
+  bg(part = "header", bg = "grey", i=1)%>%
+  
+  # bg(j ="Year_sub", part = "body", bg = "darkblue", source = "Year_sub")%>%
+  bg(i= NULL, part = "body", bg = c("lightblue"))
 
-# Data requests from Scientific meetings ####
-DATA_REQUESTS = data.table(read.xlsx("../data/Requests_to_WPDCS.xlsx", sheet = "detail"))
+
+
+Data_request = data.table(read.xlsx("../Data/data_request summ2025.xlsx", sep.names = " "))
+
 
 DATA_REQUESTS_FT = 
-  flextable(DATA_REQUESTS) %>% 
-  fontsize(part = "header", size = 11) %>% 
-  fontsize(part = "body", size  = 9) %>% 
-  flextable::font(part = "all", fontname = "calibri") %>% 
-  border_inner() %>% 
-  border_outer(border = fp_border(width = 2)) %>% 
-  merge_v(j= "Meeting") %>% 
-  valign(j = "Meeting", part = "body", valign = "top") %>% 
-  colformat_double(j = NULL, digits = 0) %>%  
-  set_table_properties(layout = "autofit", width = 1) %>% 
-  bg(part = "header", bg = "grey", i = 1)
+  flextable(Data_request) %>%
+  fontsize(size = 7, part = "header")%>%
+  fontsize(size = 8, part = "body")%>%
+  border_inner() %>%
+  border_outer(border = fp_border(width = 2)) %>%
+  merge_v(j= "Meeting")%>%
+  valign(j = "Meeting", part = "body", valign = "top") %>%
+  colformat_double(j = NULL, digits = 0 )%>%
+  set_table_properties(layout = "autofit", width= 1)%>%
+  bg(part = "header", bg = "grey", i=1)%>%
+  
+  # bg(j ="Year_sub", part = "body", bg = "darkblue", source = "Year_sub")%>%
+  bg(i= NULL, part = "body", bg = c("lightgreen"))
 
-DR_summ_para = DATA_REQUESTS[, .(Para = .N), keyby = .(Meeting)]
+DR_summ_para = Data_request[, .(Para = .N), keyby = .(Meeting)]
 
-# Number of requests by meeting
 DR_num_para = 
-  flextable(DR_summ_para) %>% 
-  fontsize(part = "header", size = 11) %>% 
-  fontsize(part = "body", size  = 9) %>% 
-  flextable::font(part = "all", fontname = "calibri") %>% 
-  border_inner() %>% 
-  border_outer(border = fp_border(width = 2)) %>% 
-  colformat_double(j = NULL, digits = 0) %>% 
-  set_table_properties(layout = "autofit", width= 1) %>% 
-  bg(part = "header", bg = "grey", i = 1) %>% 
-  set_header_labels(Para = "Number of requests", Meeting = "Scientific Meetings") %>%
+  flextable(DR_summ_para) %>%
+  fontsize(size = 7, part = "header")%>%
+  fontsize(size = 8, part = "body")%>%
+  border_inner() %>%
+  border_outer(border = fp_border(width = 2)) %>%
+  colformat_double(j = NULL, digits = 0 )%>%
+  set_table_properties(layout = "autofit", width= 1)%>%
+  bg(part = "header", bg = "grey", i=1)%>%
+  set_header_labels(Para = "Number of requests", Meeting = "Scientific Meetings")%>%
   autofit()
 
-# Progress made ###
 
-## Progress on recommendations ####
-WPDCS_REC_PROGRESS = data.table(read.xlsx("../data/Progress.xlsx", sheet = "REC progress", sep.names =  " "))
+## Progresss
+WPDCS_progress_recomm = data.table(read.xlsx("../Data/Progress25.xlsx", sep.names = " "))
 
 WPDCS_REC_PROGRESS_FT = 
-  flextable(WPDCS_REC_PROGRESS[, -c("REC", "Progress")]) %>% 
-  fontsize(part = "header", size = 11) %>% 
-  fontsize(part = "body", size  = 9) %>% 
-  flextable::font(part = "all", fontname = "calibri") %>% 
-  border_inner() %>% 
-  border_outer(border = fp_border(width = 2)) %>% 
-  merge_v(j = "Section") %>% 
-  valign(j = "Section", part = "body", valign = "top") %>% 
-  set_table_properties(layout = "autofit", width= 1) %>% 
-  bg(part = "header", bg = "grey", i = 1) %>% 
-  bg(j = c("Section", "WPDCS", "Recommendation"), part = "body", bg = "#C7E9C0") %>% 
-  bg(j = c("SC", "Scientific Committee follow-up"), part = "body", bg = "#9ECAE1") %>% 
-  bg(j = c("COM", "Commission follow-up"), bg = c("#959CC3"))
+  flextable(WPDCS_progress_recomm, col_keys = c("Type_recomm", "WPDCS20_REC", "Recommendations", "SC27", "Response / follow-up by the SC27", "S29", "Commission response / suggestions for consideration at WPDCS20" )) %>%
+  fontsize(size = 7, part = "header")%>%
+  fontsize(size = 8, part = "body")%>%
+  border_inner() %>%
+  border_outer(border = fp_border(width = 2)) %>%
+  merge_v(j= "Type_recomm")%>%
+  valign(j = "Type_recomm", part = "body", valign = "top") %>%
+  colformat_double(j = NULL, digits = 0 )%>%
+  set_table_properties(layout = "autofit", width= 1)%>%
+  bg(part = "header", bg = "grey", i=1)%>%
+  
+  bg(j = 1:3, part = "body", bg = "#9EDF9C")%>%
+  bg(j= 4:5, part = "body", bg = "#E8BCB9")%>%
+  bg(j= 6:7, part = "body", bg = c("#80C4E9"))
 
-# PR_summ_prog = WPDCS_progress_recomm[, .(WPDCS19 = .N), keyby = .(Type_recomm)]
-# 
-# PR_num_prog = 
-#   flextable(WPDCS_REC_PROGRESS, col_keys = c("Section", "REC", "Progress")) %>% 
-#   fontsize(part = "header", size = 11) %>% 
-#   fontsize(part = "body", size  = 9) %>% 
-#   flextable::font(part = "all", fontname = "calibri") %>% 
-#   border_inner() %>% 
-#   border_outer(border = fp_border(width = 2)) %>% 
-#   colformat_double(j = NULL, digits = 0 ) %>% 
-#   set_table_properties(layout = "autofit", width = 1) %>% 
-#   bg(part = "header", bg = "grey", i = 1) %>% 
-#   set_header_labels(Main_topic= "Recommendation Topics", Type_recomm = "Type of Recommendations")
+PR_summ_prog = WPDCS_progress_recomm[, .(WPDCS19 = .N), keyby = .(Type_recomm)]
+
+PR_num_prog = 
+  flextable(WPDCS_progress_recomm, col_keys = c("Type_recomm", "Main_topic", "Progress")) %>%
+  fontsize(size = 7, part = "header")%>%
+  fontsize(size = 8, part = "body")%>%
+  border_inner() %>%
+  border_outer(border = fp_border(width = 2)) %>%
+  colformat_double(j = NULL, digits = 0 )%>%
+  set_table_properties(layout = "autofit", width= 1)%>%
+  bg(part = "header", bg = "grey", i=1)%>%
+  set_header_labels(Main_topic= "Recommendation Topics", Type_recomm = "Type of Recommendations")
