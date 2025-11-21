@@ -11,7 +11,7 @@ The capacity-development section in [Appendix I](#DataAv), provides an overview 
 CB_summary
 ```
 
-## Madagascar
+### Madagascar
 
 ### Overview of the mission
 
@@ -52,7 +52,7 @@ The main activities entailed:
  - Proposal for a fisheries officer from Madagascar to work as an intern for at least one month in the data section of the IOTC Secretariat to gain insight into data processing. 
 
 
-## Indonesia
+### Indonesia
 
 ### Overview of the mission
 
@@ -75,7 +75,7 @@ The activities focused on reviewing the various data available and methodologies
  - Once the catches for both IOTC and bycatch species are available for the period 1950-2023, Indonesia is expected to make a full resubmission to FAO with Form NS-1 by 31 December 2025. The Secretariat is expected script to automate the filling of form NS-1. The revised data to FAO will only include the 16 IOTC species. 
  
  
-## Kenya
+### Kenya
 
 ### Overview of mission
 
@@ -109,7 +109,7 @@ The mission focused primarily on hands-on training for data reporting and a revi
   - Observing the progress of Kenya’s fisheries database management platform. 
 
 
-## India
+### India
 
 ### Overview of mission
 

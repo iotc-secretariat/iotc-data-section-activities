@@ -1,6 +1,6 @@
 ## Capacity development workshops
 
-###Data Reporting Workshop
+### Data Reporting Workshop
  
 The IOTC Data Reporting Workshop, held in Jakarta from 26 to 30 May 2025, brought together 32 participants from 18 CPCs to strengthen the reporting of fishery statistics. The workshop was successful in improving understanding and use of IOTC reporting forms, supported by hands-on exercises using Secretariat-developed tools such as data validators and spatial grid mapping aids. Key datasets discussed included annual retained catch, geo-referenced catch and effort, size frequency, FAD-related data, and artisanal landings monitoring, along with fishing craft
 statistics. Thanks to active participant engagement, several code lists were updated and improvements were agreed on for some of the reporting forms. The Secretariat also presented updates on data compliance assessments and proposed CPC factsheets, The workshop concluded with discussions on persistent challenges, tool
