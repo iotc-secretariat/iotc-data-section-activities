@@ -1,0 +1,9 @@
+# Data section on desk
+<!--not sure how to call it-->
+
+Progress has been made on the harmonisation of IOTC reference data with CWP code lists, including for vessel-related applications supporting both the IOTC vessel registries and Port State Measures. Complementary activities included updating the IOTC Data Reporting Guidelines, improving IOTC Reporting Forms and their description for programmatic submissions, and expanding the suite of automated Data Validators to enhance data accuracy at the point of receipt. 
+
+Data dissemination efforts focused on improving both accessibility and long-term preservation of IOTC reference materials and datasets. All IOTC code lists are now accessible through the IOTC Reference Data Catalogue, an associated R package (iotc-data-reference-codelists), and a versioned Zenodo record (10.5281/zenodo.15743874). Public-domain fisheries datasets have been released through GitHub-based R libraries, with work underway to make them available via Zenodo as well. As part of the ongoing transition to FAO infrastructure, the Secretariat also migrated the online Shiny applications providing interactive access to fishery datasets and catch-limit simulations to the FAO shinyapps.io cloud platform. 
+
+The Secretariat also supported updates to the IOTC Regional Observer Scheme (ROS) with assistance from several consultants. This work included updating reporting forms and their description in line with the SC recommendations, revising and improving the ROS database, and aligning data fields with the IOTC Reference Data Catalogue. Documentation, standards, and  materials for the scheme are being reorganized and harmonised with further updates planned for different user groups. 
+ 
