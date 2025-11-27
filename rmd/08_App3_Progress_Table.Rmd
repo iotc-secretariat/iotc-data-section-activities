@@ -1,5 +1,13 @@
-# Appendix III: Progress made on WPDCS20 recommendations {#RecProgress}
+# Appendix III: Progress on WPDCS20 Recommendations {#RecProgress}
 
-```{r RECOMM}
+```{r Progress}
+block_caption("Recommendations from the 20th IOTC Working Party on Data collection and Statistics (WPDCS20) to the 27th Scientific Committee (SC27), and responses and follow-up by the 29th session of the Commission (S29)", 
+              style = "Table Caption", 
+              autonum = run_autonum(seq_id = 'tab', 
+                                    bkm = "Progress", 
+                                    pre_label = "Tab. A", 
+                                    prop = fp_text_lite(bold = TRUE))
+)
 WPDCS_REC_PROGRESS_FT
 ```
+

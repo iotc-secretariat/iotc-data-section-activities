@@ -18,11 +18,12 @@ pacman::p_load("knitr",
                "openxlsx", 
                "tidyverse",
                "pivottabler",
-               "basictabler"
+               "basictabler", 
+               "data.table"
 )
 
 
 # Set chart theme
 ggplot2::theme_set(theme_bw())
 
-l_info("External libraries fully initialized")
+print("External libraries fully initialized")

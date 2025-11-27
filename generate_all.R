@@ -10,7 +10,7 @@ setwd("..")
 # DOCX
 render("rmd/00_DOCX_HTML.Rmd",
        output_dir    = "outputs/", 
-       output_file   = paste0("IOTC-2025-WPDCS21-08 - IOTC Data Section Activities", ".docx")
+       output_file   = paste0("IOTC-2025-WPDCS21-08_IOTC_data_section_activities", ".docx")
 )
 
 # # will update for PPT

@@ -3,21 +3,47 @@ title: "IOTC Data Section Activities and Progress made on the Recommendations fr
 author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
-    reference_docx: "../templates/doc_template.docx"
+    reference_docx: "../templates/rdoc_template.docx"
 reference_num: true
+#csl: iotc.csl
+#bibliography: WPDCS.bib
+link-citations: yes
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE, 
-                      tab.cap.pre = "Tab. ", 
+                      tab.cap.pre = "Table ", 
                       tab.cap.sep = ". ", 
-                      tab.cap.style = "Table Caption", 
-                      #tab.cap.fp_text = officer::fp_text_lite(italic = TRUE, bold = TRUE), 
+                      tab.cap.style ="Table Caption", 
+                      #                      tab.cap.fp_text = officer::fp_text_lite(italic = TRUE, bold = TRUE), 
                       fig.cap = TRUE, 
                       fig.cap.pre = "Fig. ", 
                       fig.cap.sep = ". ", 
                       fig.cap.style = "Caption label",
                       dpi = 300
+)
+```
+
+```{r Headers, echo = FALSE}
+logo.file = file.path("../templates/FAO_IOTC_LOGOS.png")
+
+bl_header_no_logo = function(txt, position) {
+  block_list(
+    fpar(values = txt, fp_p = fp_par(text.align = position, border.bottom = fp_border()), fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 12))
+  )
+}
+
+bl_header_with_logo = function(txt, position) {
+  block_list(
+    fpar(external_img(src = logo.file, height = 0.71, width = 7.19, unit = "in"), 
+    ftext = txt, 
+         fp_p = fp_par(text.align = position, border.bottom = fp_border()), 
+         fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 12)))
+}
+
+sec_pr = prop_section(
+  header_first = bl_header_with_logo("IOTC-2025-WPDCS21-08", "right"),
+  header_default = bl_header_no_logo("IOTC-2025-WPDCS21-08", "right")
 )
 ```
 
@@ -47,13 +73,18 @@ block_section(sec_pr)
 ```{r child = "02.02_Workshops.Rmd"}
 ```
 
+```{r child = "02.03_Data_management.Rmd"}
+```
+
 ```{r child = "03_Requests.Rmd"}
 ```
+
+\pagebreak
 
 ```{r child = "04_Progress.Rmd"}
 ```
 
-```{r child = "05_Conclusions.Rmd"}
+```{r child = "05_Conclusions.Rmd", eval = FALSE}
 ```
 
 <!---BLOCK_LANDSCAPE_START--->
@@ -72,3 +103,7 @@ block_section(sec_pr)
 ```
 
 <!---BLOCK_LANDSCAPE_STOP--->
+
+```{r, echo = FALSE, eval = FALSE}
+block_section(sec_pr)
+```

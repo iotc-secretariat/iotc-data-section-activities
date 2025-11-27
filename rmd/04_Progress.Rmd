@@ -1,8 +1,3 @@
-# Progress Made on the Recommendations from WPDCS20
+# Progress Made on Recommendations from WPDCS20
 
-
-During WPDCS20, five recommendations were submitted to the Scientific Committee (**Table \@ref(tab:DProgress)**), categorized under several themes, in addition to the recommendations included in the Programme of Work and the final report of WPDCS20. The progress made on these recommendations is further reviewed, and, where appropriate, alternative recommendations are proposed for participants to consider and endorse. The progress on each recommendation is presented in [appendix II](#RECOM).
-
-```{r DProgress, tab.id = "DProgress", tab.cap = "Summary on progress made on WPDCS19 recommendations"}
-PR_num_prog
-```
+During the 20^th^ session of the WPDCS, five recommendations were submitted to the SC, categorized under several themes, in addition to the recommendations included in the Programme of Work and the final report of the meeting. The progress made on these recommendations is further reviewed, and, where appropriate, alternative recommendations are proposed for participants to consider and endorse. The progress on each recommendation is presented in [Appendix III](#RecProgress).

@@ -1,5 +1,12 @@
 # Appendix II: Data-Related Requests from Other Meetings {#Requests}
 
-```{r RequestsToWPDCS}
+```{r Requests}
+block_caption("Data-related requests to the 20th Working Party on Data Collection and Statistics (WPDCS20) ", 
+              style = "Table Caption", 
+              autonum = run_autonum(seq_id = 'tab', 
+                                    bkm = "Requests", 
+                                    pre_label = "Tab. A", 
+                                    prop = fp_text_lite(bold = TRUE))
+)
 DATA_REQUESTS_FT
 ```

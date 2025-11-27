@@ -2,9 +2,8 @@
 
 With the aim of improving the quality and availability of data for stock assessments of IOTC species, several scientific working parties have made specific requests to the Working Party on Data Collection and Statistics (WPDCS) to provide or enhance particular datasets. In many cases, this requires the Data Section to liaise directly with CPCs to obtain the necessary information. In some circumstances, the Data Section has had to initiate targeted projects or develop special data-request formats to fulfill these needs. However, not all CPCs are willing or able to provide the requested information.
 
-In addition to requests from the working parties, the Scientific Committee (SC) also submits follow-up data requests to the WPDCS. During the latest SC session, and from subsequent working party meetings, a total of 15 data-related requests were made (**Table \@ref(tab:DRequest)**), including two originating directly from the Scientific Committee. These requests are presented in detail in [appendix III](#DataAv).
+In addition to requests from the Working Parties, the Scientific Committee (SC) also submits follow-up data requests to the WPDCS. During the latest SC session, and from subsequent Working Party meetings, a total of 15 data-related requests were made, including two originating directly from the SC (**Table \@ref(tab:DRequests)**). These requests are presented in detail in [Appendix II](#Requests).
 
-
-```{r DRequest, tab.id = "DRequest", tab.cap = "Number of data requests made to WPDCS"}
+```{r DRequests, tab.id = "DRequests", tab.cap = "Number of data requests made to the WPDCS in 2025"}
 DR_num_para
 ```

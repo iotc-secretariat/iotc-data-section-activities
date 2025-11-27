@@ -1,6 +1,13 @@
 # Appendix I: Main Activities related of the Data Section carried out in 2025 {#AppDataSectionActivities}
 
-```{r ActivityTable, tab.id = "ActivityTable"}
-ACTIVITY_TABLE_FT
+```{r DSActivities}
+block_caption("Summary of data section activities held in late 2024 and 2025", 
+              style = "Table Caption", 
+              autonum = run_autonum(seq_id = 'tab', 
+                                    bkm = "DSActivities", 
+                                    start_at = 1, 
+                                    pre_label = "Tab. A", 
+                                    prop = fp_text_lite(bold = TRUE))
+)
+FlexouilleLaTableMonDalon(capacity_building_table[, .(Category, `Country / CPC`, Dates, `Executing agencies`, Mode)]) %>% merge_v(j = 1) %>% width(width = c(1.8, 1, 1.3, 3, 0.7))
 ```
-
