@@ -1,6 +1,6 @@
 FlexouilleLaTableMonDalon = function(DataSet){ 
   
-  FT = 
+  FT <- 
     DataSet %>% 
     flextable::flextable() %>% 
     flextable::font(part = "all", fontname = "Calibri") %>% 

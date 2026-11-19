@@ -1,0 +1,16 @@
+# Appendix IV: Technical assistance mission to Madagascar (August 2026) {#madagascar}
+
+## Background
+
+The mission reviewed progress in fisheries data collection, processing and IOTC reporting. Visits and consultations in Tamatave and Antananarivo confirmed that resource constraints, institutional disruption and cyclone damage continue to affect data coverage and continuity. The immediate priority is to consolidate the existing system through achievable sampling requirements, documented estimation methods and secure data management before larger investments are undertaken.
+
+## Main findings
+
+**Sampling and estimation**. The routine network is geographically unbalanced, with no coverage in the south-west. Numerous fishing units and demanding sample targets place considerable pressure on individual enumerators. Concerns about the 2023 frame survey have led to continued reliance on the 2012 survey and local adjustments. Raising factors and the treatment of unsampled regions, missing periods and fleet changes require documentation and review.
+Data quality and continuity. Industrial landing weights provide extensive coverage, but should be reconciled with logbooks; discards require separate collection. The closure of the Tuna Statistics Unit in Antsiranana in 2022 disrupted fisheries monitoring, reduced technical capacity and resulted in the loss of access to historical data and processing software. Currently the data collectors rely largely on paper and Excel, without systematic secure backups. The paper and excel sheets are not uniform across the country. Any electronic tools used need to provide for all of the IOTC data requirements (i.e., catch, effort and biological sampling).
+
+**Complementary data and biological sampling**. WWF records from southern areas, including time series extending to 2012, could help address geographical and historical gaps after methods and coverage are assessed. Ministry counterparts expressed interest in biological sampling. Practical fin-clip training was provided and equipment left with the Tamatave team, pending formal approval.
+
+## Priority actions
+
+Review fishing-unit definitions, geographical coverage and sampling targets against available staff and resources. Introduce common forms and harmonised species and gear codes linked to local names, supported by identification and measurement training. Document the raising method through worked examples and prepare standard protocols and reference lists before the next frame survey. Consolidate current datasets, establish routine backups and inventory historical records for phased recovery. Pilot sustainable electronic collection with offline entry, validation and secure transfer before progressing towards an integrated national database. Institutional control of data, documentation and administrator access, together with funded maintenance, should be explicit requirements. Agree with WWF how compatible records may contribute to national estimates. Seek formal approval for genetic and morphometric sampling and finalise protocols. Designate a ministry focal point and train a core group able to retain and share technical skills. Subject to resources, IOTC follow-up should support sampling design, estimation, standard forms, electronic pilots and biological sampling.

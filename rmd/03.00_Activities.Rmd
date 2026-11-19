@@ -1,0 +1,7 @@
+# Capacity Development Activities
+
+During 2026, the Data Section conducted five in-country technical assistance missions and organised three data-related workshops, including one online seminar. It also participated in external technical meetings and workshops. A consolidated record of these activities, including dates, counterparts and short descriptions, is provided in **[Appendix I](#AppDataSectionActivities)**.
+
+The following sections highlight the principal activities and outcomes. Detailed workshop documentation is available through the corresponding meeting webpages; additional accounts of the Madagascar and Oman missions are provided in **Appendices [IV](#madagascar) and [V](#oman)**, respectively.
+
+<!-- Appendix I: regenerate the 2026 activity table from CSV/XLSX using flextable. -->

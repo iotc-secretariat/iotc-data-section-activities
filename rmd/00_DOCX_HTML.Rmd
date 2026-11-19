@@ -5,9 +5,7 @@ output:
   officedown::rdocx_document:
     reference_docx: "../templates/rdoc_template.docx"
 reference_num: true
-#csl: iotc.csl
-#bibliography: WPDCS.bib
-link-citations: yes
+#link-citations: yes
 ---
 
 ```{r setup, include = FALSE}
@@ -24,86 +22,62 @@ knitr::opts_chunk$set(echo = FALSE,
 )
 ```
 
-```{r Headers, echo = FALSE}
-logo.file = file.path("../templates/FAO_IOTC_LOGOS.png")
-
-bl_header_no_logo = function(txt, position) {
-  block_list(
-    fpar(values = txt, fp_p = fp_par(text.align = position, border.bottom = fp_border()), fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 12))
-  )
-}
-
-bl_header_with_logo = function(txt, position) {
-  block_list(
-    fpar(external_img(src = logo.file, height = 0.71, width = 7.19, unit = "in"), 
-    ftext = txt, 
-         fp_p = fp_par(text.align = position, border.bottom = fp_border()), 
-         fp_t = fp_text_lite(color = "black", bold = FALSE, font.size = 12)))
-}
-
-sec_pr = prop_section(
-  header_first = bl_header_with_logo("IOTC-2025-WPDCS21-08", "right"),
-  header_default = bl_header_no_logo("IOTC-2025-WPDCS21-08", "right")
-)
+```{r style, echo = FALSE}
+bold_style <- fp_text(bold = TRUE)
 ```
 
-```{r TextStyles, echo = FALSE}
-fp = fp_par(
-  text.align = "center", 
-  padding.bottom = 20, padding.top = 120, 
-  border.bottom = fp_border())
-
-alert = fp_text(shading.color = "transparent", bold = TRUE, color = "red")
-underline = fp_text(underlined = TRUE)
-```
-
-```{r, echo = FALSE, eval = TRUE}
-block_section(sec_pr)
-```
-
-```{r child = "01_Introduction.Rmd"}
-```
-
-```{r child = "02.00_Activities.Rmd"}
-```
-
-```{r child = "02.01_Support.Rmd"}
-```
-
-```{r child = "02.02_Workshops.Rmd"}
-```
-
-```{r child = "02.03_Data_management.Rmd"}
-```
-
-```{r child = "03_Requests.Rmd"}
+```{r child = "01_Cover.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "04_Progress.Rmd"}
+```{r child = "02_Introduction.Rmd"}
 ```
 
-```{r child = "05_Conclusions.Rmd", eval = FALSE}
+```{r child = "03.00_Activities.Rmd"}
 ```
 
-<!---BLOCK_LANDSCAPE_START--->
+```{r child = "03.01_Support.Rmd"}
+```
 
-```{r child = "06_App1_Activity_Table.Rmd"}
+```{r child = "03.02_Workshops.Rmd"}
+```
+
+```{r child = "03.03_Data_management.Rmd"}
+```
+
+```{r child = "04_Requests.Rmd"}
+```
+
+```{r child = "05_Progress.Rmd"}
+```
+
+```{r child = "06_Conclusions.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "07_App2_Request_Table.Rmd"}
+```{r child = "07_App1_activity_table.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "08_App3_Progress_Table.Rmd"}
+```{r child = "07_App2_request_table.Rmd"}
 ```
 
-<!---BLOCK_LANDSCAPE_STOP--->
+\pagebreak
 
-```{r, echo = FALSE, eval = FALSE}
-block_section(sec_pr)
+```{r child = "07_App3_progress_table.Rmd", eval = FALSE}
 ```
+
+\pagebreak
+
+```{r child = "07_App4_Madagascar_mission.Rmd"}
+```
+
+\pagebreak
+
+```{r child = "07_App5_Oman_mission.Rmd"}
+```
+
+

@@ -1,0 +1,70 @@
+# Appendix V: Technical assistance mission to Oman (September-October 2026) {#oman}
+
+## Background and mission purpose
+
+Oman's fisheries data collection and management systems have several recognised limitations that contribute to uncertainty in the data reported to the IOTC. In particular, the nominal catch and catch-effort data show a substantial increase in catches and catch rates in 2020, with both remaining at elevated levels thereafter. The IOTC and its Scientific Committee therefore requested a Secretariat mission to support the review of data collection and processing procedures. Since 2024, Oman has been reviewing and improving these systems to address IOTC reporting requirements and national information needs.
+
+The objectives of the mission were to:
+
+1.	Review the updates made by the data and statistics department of the Omani Ministry of Agriculture, Fisheries, and Water Resources (MAFWR) in relation to current IOTC reporting requirements, and identify remaining reporting gaps and bottlenecks;  
+
+2.	Assess progress in data handling and reporting, particularly the recently developed database for industrial fisheries;  
+
+3.	Examine the methodologies currently used by the department and identify opportunities to improve reporting to the IOTC;  
+
+4.	Review port sampling arrangements, including sampling coverage and gaps in data collection;  
+
+5.	Observe field data collection at selected landing sites together with colleagues from MAFWR's data and statistics department.
+
+## Landing sites visited
+
+The sites of Qurayyat, Sur and Al Ashkharah were visited to observe landing activities and discuss routine data collection issues with fishers and local ministry officials. Qurayyat serves skiffs from the artisanal fleet, while Sur and Al Ashkharah serve both skiffs and dhows from the artisanal and coastal fleets. The field visits were complemented by discussions at the ministry on data processing procedures and practical training for MAFWR staff on the IOTC reporting forms.
+
+### Visits to landing sites
+
+The three sites provided an opportunity to examine data collection under different local conditions. At each site, fish being landed were observed and procedures with local government officials, many of whom were also responsible for collecting the data, were discussed. Each site was in a different governorate. Qurayyat, in the governorate of Muscat, serves as a principal regional landing hub for skiffs. Landing sites within each governorate are organised around a main hub, although catches landed at smaller sites are currently sold locally. Plans are being considered to transport these catches to the main hubs for auction. Observations at the landing sites helped clarify how some collection practices could introduce bias into the subsequent estimates. In particular, the handline category combined at least two distinct types of fishing gear: one used to catch tuna and another used for smaller grouper and snapper species. Treating these as a single category may obscure differences in fishing activity and catch composition. The ROs also directly observed cases of species misidentification, indicating a need for further training. Discussions at all three sites were open, and local officials made considerable efforts to explain their procedures and answer questions.
+
+### Central Fish Market
+
+A visit was also conducted at the Central Fish Market near Muscat, which handles approximately 40 tonnes of fresh fish daily. Fish are transported from landing sites, sorted and checked for quality on arrival, and sold through an auction system. Priority is given to the domestic market, while exports are subject to specific conditions, including restrictions applying to large tunas. The market and its auction records could provide a complementary source of information for cross-checking fisheries production and trade data. These records appear to be available to MAFWR. However, their integration into the fisheries data workflow and their use in compiling national statistics remain unclear.
+
+## Methodological discussions and findings
+
+Oman currently uses two databases to manage fisheries data: one for the artisanal and coastal fleets, and another for the industrial fleet operating outside Omani national waters. The artisanal fleet comprises approximately 16,000 skiffs under 8 m in length and an unspecified number of dhows without cabins. The coastal fleet consists of approximately 650 dhows with cabins. The industrial fleet comprises six purse seiners, three longliners and two support vessels.
+The industrial fisheries database was developed this year, reflecting the relatively recent expansion of this part of the sector. It is currently installed on a single laptop, with wider deployment progressing slowly because of the required security checks. A dedicated computer within the ministry is planned for data entry.
+
+Several reporting issues remain unresolved. Submissions need to be checked each month to ensure that all required catch, Drifting Fish Aggregating Device (DFAD) activity and observer logbooks have been received. Some industrial fisheries data identified as missing by the IOTC cannot be recovered because they were not collected in the original logbooks. Bycatch and discard reporting also require attention, as the longline logbooks do not currently contain this information. Further training is needed, and there are plans to deploy observers on longliners to provide independent verification of reported data.
+
+Reporting coverage for the coastal fleet is particularly limited. Fewer than ten vessels report each month, and these submissions cannot be considered representative of the fleet. Artisanal fisheries data are collected by staff operating within each governorate, but routine collection is limited to landings. Some collectors also record fishing gear and time at sea on their own initiative; these variables are not collected systematically.
+
+Total fleet catches are estimated by raising observed landings using the probability of fishing and the number of vessels. The probability of fishing is derived from a telephone survey in which licence holders are asked whether they fished on the previous day. The current estimates assume six non-fishing days per month. This may underestimate the number of non-fishing days and will be reviewed through a re-examination of the data, with additional collection if necessary.
+
+Species misidentification and inappropriate gear aggregation are further potential sources of bias in the catch estimates. Both issues were under investigation at the time of the mission, and the landing-site observations provided practical examples to inform this work.
+Upcoming database changes
+
+Oman is in the process of developing a ministry-wide data infrastructure bringing together the existing fisheries, agriculture and other databases within a common framework. For fisheries, the platform is intended to allow fishers to apply for and pay for their fishing licences, and submit the associated reports. Information submitted through the platform would feed into the existing databases.
+
+Under the proposed arrangements, fishers would be required to enter catch and trip information before selling their catch. This could provide more timely information on fishing trips, catches and species composition. Its reliability will, however, depend on the quality of the declarations. Species misidentification and inaccurate reporting remain concerns, particularly if users receive insufficient training.
+
+Oman was therefore encouraged to maintain the existing collection systems in parallel while the new platform is tested and refined.
+
+## Outcomes
+
+The main outcomes of the mission were:
+
+1.	**Assessment of fisheries data collection and reporting systems**. The mission reviewed data management arrangements for the artisanal, coastal and industrial fleets and identified gaps affecting the completeness, reliability and representativeness of submissions to the IOTC;  
+
+2.	**Identification of potential biases in catch estimates**. The review identified assumptions about fishing activity, species misidentification and inappropriate gear aggregation as priorities for further investigation and refinement of the estimation methods;   
+
+3.	**Identification of improvements needed in industrial fisheries reporting**. The review of the recently developed database identified incomplete logbook submissions, historical data that cannot be recovered, and gaps in bycatch and discard reporting. Further training and independent verification through observer coverage are needed;   
+
+4.	**Assessment of landing-site data collection practices**. Visits to Qurayyat, Sur and Al Ashkharah provided direct observations of field procedures and confirmed weaknesses in species identification and gear classification. The wider review also identified particularly low reporting coverage for the coastal fleet;  
+
+5.	**Support for IOTC reporting capacity**. Ministry staff received practical training on the IOTC reporting forms. The discussions also identified opportunities to improve data handling and reporting procedures;  
+
+6.	**Identification of considerations for the transition to an integrated data system**. The mission reviewed plans to link licensing, trip reporting and catch declarations through a ministry-wide platform. Maintaining the existing collection systems in parallel was recommended while the new arrangements are tested and refined.
+
+
+
+
+

@@ -1,0 +1,16 @@
+# Appendix I: Main Activities related of the Data Section carried out in 2026 {#AppDataSectionActivities}
+
+```{r DSActivities}
+capacity_building_table <- data.table::fread("../data/iotc_data_section_activities_2026.csv")
+
+block_caption("Summary of data section activities held in late 2026", 
+              style = "Table Caption", 
+              autonum = run_autonum(seq_id = 'tab', 
+                                    bkm = "DSActivities", 
+                                    start_at = 1, 
+                                    pre_label = "Tab. A", 
+                                    prop = fp_text_lite(bold = TRUE))
+)
+
+FlexouilleLaTableMonDalon(capacity_building_table[, .(Category, `Country / CPC`, Mode, Dates, Summary)]) |> flextable::merge_v(j = 1) |> flextable::width(width = c(1.1, 0.9, 0.7, 0.9, 3.8))
+```

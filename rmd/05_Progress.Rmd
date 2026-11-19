@@ -1,0 +1,5 @@
+# Progress Made on Recommendations from WPDCS21
+
+The Secretariat reviewed the recommendations from the 21st session of the WPDCS and the subsequent consideration and follow-up by the Scientific Committee and Commission. The recommendation-by-recommendation record, including relevant meeting references and implementation status, is presented in **Appendix III**.
+
+<!-- Verify recommendation count and outcomes against the final WPDCS21, SC28 and Commission records. Generate the detailed table from the source dataset using flextable. -->

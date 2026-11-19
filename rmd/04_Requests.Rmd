@@ -1,0 +1,5 @@
+# Data Requests from Scientific Meetings
+
+The IOTC Working Parties (WPs) and the Scientific Committee (SC) identify data requirements relevant to stock assessments, fisheries monitoring and reporting. Addressing these requests may involve direct exchanges with CPCs, targeted reviews of existing datasets, and the development of reporting or validation procedures.
+
+A total of 24 data-related requests arising from the 28^th^ session of the SC and the WPs held in 2026 have been referred to the WPDCS for consideration. These requests are detailed in **[Appendix II](#requests)**.
