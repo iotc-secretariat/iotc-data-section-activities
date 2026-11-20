@@ -1,5 +1,5 @@
 ---
-title: "IOTC Data Section Activities and Progress made on the Recommendations from WPDCS"
+title: "IOTC Data Section Activities and Follow-up on Data-Related Requests and Recommendations"
 author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
 output:
   officedown::rdocx_document:
