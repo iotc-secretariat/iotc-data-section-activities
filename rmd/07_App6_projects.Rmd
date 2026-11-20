@@ -1,0 +1,67 @@
+# Appendix VI: Projects Supporting IOTC Data Section Activities {#projects}
+
+## SWIOP -- Sustainable Western Indian Ocean Programme
+
+### Strengthening Fisheries Data Systems and Scientific Capacity in the Western Indian Ocean
+
+Under Pillar 1 (*Ocean Governance*) of the Sustainable Western Indian Ocean Programme (SWIOP), activities are planned to strengthen fisheries data systems and scientific capacity in the Western Indian Ocean (WIO), in collaboration with the Indian Ocean Tuna Commission (IOTC) and the Southern Indian Ocean Fisheries Agreement (SIOFA). The activities aim to modernise data infrastructure, harmonise collection and processing procedures, improve the availability and interoperability of fisheries and biological data, and support their use in scientific assessments and management advice.
+
+#### Modernisation of RFMO Digital Systems
+
+SWIOP will support the modernisation of IOTC data management infrastructure and associated procedures through:
+
+- Migration and redesign of the IOTC Statistical and Biological Data System using a PostgreSQL architecture aligned with FAO standards, covering catch, effort, size-frequency, fish aggregating device (FAD), licensing and socio-economic data.
+- Modernisation of Regional Observer Scheme (ROS) data management, including interoperability with national systems and IRD's ObServe software, improved validation and security, and metadata aligned with FAIR (Findable, Accessible, Interoperable and Reusable) principles.
+- Streamlining and automation of data processing workflows, supported by standard operating procedures and centralised workflow management.
+- Upgrading the drifting FAD (DFAD) Register to strengthen traceability, compliance monitoring and interoperability with vessel monitoring systems (VMS) and other IOTC information systems.
+- Development of a common quality-assurance framework, including harmonised validation rules and version control.
+
+#### Harmonisation of Catch and Biological Data
+
+Activities led by Ifremer, in coordination with IOTC and SIOFA, will support more consistent fisheries sampling and biological data management. They include regional workshops on sampling strategies and species identification, reviews of national catch recording systems, and national training on biological sample collection, preservation and labelling. The programme also envisages establishing the Western Indian Ocean Fish Bank (WIO-FishBank), combining regional specimen storage with digital traceability of biological samples.
+
+#### Integration and Dissemination of Spatial Data
+
+SWIOP will support the integration of geographic information systems (GIS) into routine RFMO data management and analysis. Planned activities include developing shared geospatial databases linking VMS, observer, FAD and environmental information; producing harmonised maps and analytical products for scientific and compliance purposes; and establishing metadata standards and DOI-based publication procedures for spatial datasets.
+
+#### Scientific Capacity Development
+
+Regional workshops on the R programming language will support CPC scientists in fisheries data processing, analysis and stock assessment, including the application of methods and tools such as JABBA, CMSY and LB-SPR. These activities are intended to strengthen national analytical capacity and participation in RFMO scientific processes.
+
+#### Expected Contribution
+
+Together, these activities are expected to improve the quality, consistency, traceability and accessibility of fisheries data, strengthen cooperation among national institutions and regional organisations, and support more reproducible scientific analyses and evidence-based fisheries management in the WIO region.
+
+## EC1350 -- EU-Funded Support to the IOTC Scientific Committeeâ€™s Programme of Work
+
+### Strengthening Biological Knowledge and Coastal Fisheries Data Systems
+
+The EU-funded EC1350 project supports the IOTC Scientific Committeeâ€™s Programme of Work by improving biological information on tuna and bycatch species and strengthening coastal fisheries data systems. The activities relevant to the Data Section fall under Goal 1, on biological knowledge, and Goal 3, on coastal fisheries data systems. They aim to improve the quality, consistency and usability of information used in stock assessments and management advice.
+
+#### Goal 1 -- Improving Biological Knowledge
+
+**Scoping and pilot for a regional sampling framework.** The project will assess options for a coordinated regional biological sampling programme to address gaps in size-frequency, morphometric and other biological information. Planned activities include:
+
+- Reviewing existing size and morphometric datasets to identify gaps and priorities.
+- Defining the scope, priority species (particularly albacore, yellowfin and bigeye tuna), logistics and resource requirements of a regional programme.
+- Developing harmonised sampling, preservation and associated data protocols.
+- Implementing a pilot in three priority CPCs covering morphometric measurements, genetic sampling and advanced biological sampling, potentially including ageing or close-kin mark--recapture approaches.
+
+The scoping study and pilot will inform the design of a longer-term regional sampling framework and support the development of more reliable biological parameters for scientific assessments.
+
+#### Goal 3 -- Improving Coastal Fisheries Data Systems
+
+**Review of national data collection and processing tools.** The project will assess the systems and procedures used by CPCs to collect, validate, process and report coastal fisheries data, identifying opportunities to reduce inconsistencies and promote harmonised, scalable approaches.
+
+**Enhancement of OpenARTFISH and artfishR.** In collaboration with FAO and selected CPCs, the project will support improvements to these tools to better meet IOTC reporting requirements, including:
+
+- Alignment with international fisheries statistical classifications and IOTC reporting standards.
+- Integration of size-frequency data modules.
+- Testing and refinement through national case studies.
+- Development of accessible reporting, data export and visualisation outputs.
+
+**Regional capacity development.** A regional workshop will address sampling theory, statistical raising procedures and the practical application of OpenARTFISH and artfishR, with the aim of supporting reproducible national workflows for estimating and reporting coastal fisheries catch and effort.
+
+#### Expected Contribution
+
+The combined activities are expected to strengthen biological sampling and coastal fisheries data processing, improve the consistency of catch estimates and biological information submitted to the IOTC, and support more robust stock assessments and national reporting capacity.

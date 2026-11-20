@@ -1,11 +1,9 @@
-## Technical Workshops
+### Technical Workshops
 
-**Purse seine data reporting workshop (Seychelles, 16-19 March 2026).** Eighteen participants from six CPCs reviewed statistical and ROS reporting requirements for purse seine fisheries, including catch and effort, discards, species interactions, size data and drifting floating objects. Discussions addressed reporting workflows, data validation and priorities for improving data quality (for more details, see [report](https://iotc.org/meetings/iotc-purse-seine-fisheries-reporting-workshop)).
+To support further progress in the implementation of the IOTC Regional Observer Scheme (ROS), the Secretariat organised three capacity-building workshops in 2026, focusing on data collection and reporting requirements for purse seine, longline and gillnet fisheries. These workshops aimed to strengthen CPCs' understanding of reporting requirements, promote the use of standardised reporting forms and improve the quality and completeness of observer data.
 
-**ROS reporting workshop for longline fisheries (Johannesburg, 26-29 May 2026).** Twelve participants from eight CPCs reviewed ROS data reporting requirements, observer datasets, historical reporting gaps and electronic monitoring. The workshop also considered standardised forms, validation tools and opportunities to improve the consistency of national submissions (for more details see [report](https://iotc.org/meetings/iotc-ros-reporting-workshop-longline-fisheries)).
-
-**Gillnet data collection under the IOTC ROS (online seminar, 3-4 November 2026).** The seminar reviewed existing reporting requirements and national data collection initiatives, including alternative and crew-based observer approaches, and provided an opportunity to discuss harmonisation of gillnet observer data collection and reporting. A workshop report is under preparation.
+Summaries of the workshops are provided in Appendix I, with further details in Appendix III. Reports of the purse seine and longline workshops are available on their respective meeting webpages, while the report of the gillnet workshop is under preparation.
 
 ## Participation in External Meetings and Workshops
 
-The Data Section participated in technical exchanges concerning EU data reporting and coordination, the Indian Ocean shark research plan, bycatch data, and abandoned, lost or otherwise discarded fishing gear (ALDFG), among other subjects. These activities supported dialogue on data requirements, harmonisation and data quality. The individual meetings and contributions are summarised in **Appendix I**.
+The Data Section participated in technical exchanges concerning EU data reporting and coordination, the Indian Ocean shark research plan, bycatch data, and abandoned, lost or otherwise discarded fishing gear (ALDFG), among other subjects. These activities supported dialogue on data requirements, harmonisation and data quality.

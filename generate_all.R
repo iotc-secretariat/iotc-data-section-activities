@@ -26,7 +26,7 @@ document   <- paste0(doc_number, "-", doc_title, ".docx")
 render("rmd/00_DOCX_HTML.Rmd", 
        output_dir = "./outputs/", 
        output_file = document
-       )
+)
 
 # Generic text header in template ("BTOR_HEADER")
 header_text <- enc2utf8(doc_number)

@@ -62,22 +62,23 @@ bold_style <- fp_text(bold = TRUE)
 
 \pagebreak
 
-```{r child = "07_App2_request_table.Rmd"}
+```{r child = "07_App2_missions.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "07_App3_progress_table.Rmd", eval = FALSE}
+```{r child = "07_App3_workshops.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "07_App4_Madagascar_mission.Rmd"}
+```{r child = "07_App4_request_table.Rmd"}
 ```
 
 \pagebreak
 
-```{r child = "07_App5_Oman_mission.Rmd"}
+```{r child = "07_App5_progress_table.Rmd"}
 ```
+
 
 

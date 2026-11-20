@@ -1,0 +1,185 @@
+# Appendix II: 2026 IOTC Technical Assistance Missions {#missions}
+
+In 2026, the IOTC Secretariat conducted five technical assistance missions to Comoros, Kenya, Madagascar, Oman and Tanzania, in response to requests from CPCs and priorities identified through IOTC scientific meetings and the review of national data submissions. The missions provided opportunities to review national fisheries data collection and management systems, assess progress in implementing IOTC reporting requirements, and provide technical guidance and training to national counterparts. They also helped identify priorities for continued collaboration and capacity development, as summarised in the following sections.
+
+## Tanzania
+
+### Background and Objectives
+
+The mission was conducted over three days with the participation of representatives from key ministries and relevant stakeholders, including Deep Sea Fishery Authority (DSFA), Ministry of Blue Economy and Fisheries (MBEF), Ministry of Livestock and Fisheries (MLF), and Nelson Mandela African Institution of Science and Technology (NM-AIST). As the reconstruction and harmonisation of fisheries datasets required information from multiple departments and agencies, close inter-institutional collaboration was necessary to compile, validate, and reconcile the available data.
+
+The main objectives of the mission in Tanzania were to:
+
+1. review the proposed methodology for the historical catch reconstruction of artisanal fisheries;
+2. assess the progress made in implementing harmonised fisheries data management processes among the different entities; and
+3. provide feedback on the latest submission, with a focus on industrial fisheries data reporting requirements.
+
+The Secretariat was presented with Tanzania's implementation plan and proposed methodology for reconstructing historical catches from coastal fisheries. This exercise aims to address potential underestimation of catches in the IOTC databases resulting from fragmented data collection systems. The Deep Sea Fishing Authority (DSFA) plans to undertake a desk-based review of historical information, in collaboration with the Sea Around Us Project and the Nelson Mandela African Institution of Science and Technology (NM-AIST), to identify and consolidate relevant datasets. Landing-site sampling is also planned to support the validation of reconstructed catch estimates.
+
+In parallel, Tanzania is working towards harmonising the fisheries data management systems currently maintained by different ministries and departments, with the objective of developing an integrated national fisheries information platform serving as a central repository for fisheries data.
+
+### Main findings and Priority Actions
+
+The tasks presented by Tanzania are in early stage and required further review. However, the involvement of stakeholders in the implementation process are beneficial.
+
+The follow-up actions and recommendations:
+
+-	assess the key issues affecting fisheries data reporting and identify measures to improve compliance with reporting requirements;
+- ensure submission of datasets using the appropriate reporting forms and validate the associated coding systems, particularly for DFAD data;
+- strengthen liaison with vessel owners and relevant fisheries authorities, including the SFA, to improve the collection of size-frequency data;
+- evaluate and consolidate existing catch datasets as part of the reconstruction and data harmonisation process;
+- reconstruct previous Regional Observer Scheme (ROS) information using observer reports and the official IOTC ROS reporting forms, and correct specific issues in the 2024 submission, accordingly, including E-SET-CATCH-SPECIMENS-SSI datasets;
+- continue reviewing the harmonisation process across the various fisheries data collection systems, including the incorporation of data raising procedures appropriate for Tanzanian fisheries into the new processing framework;
+- ensure the provision of adequate and continuous training for fisheries officers to support sustainable data flow and implementation following harmonisation of the new system;
+- reorganise and refine the presentation on the catch reconstruction exercise for submission and discussion at WPDCS22; and
+- request the IOTC Secretariat to provide any additional datasets or information that may support the catch reconstruction process.
+
+## Kenya
+
+### Background and Objectives
+
+This two-day workshop was conducted to review data reporting gaps and strengthen the capacity of officers from the Kenya Fisheries Service (KeFS), in response to ongoing challenges in completing both statistical data submissions and Regional Observer Scheme (ROS) reporting forms.
+
+The main objectives of the mission to Kenya were to:
+
+- review the challenges faced by Kenya in reporting fisheries data;
+-	provide guidance on the various IOTC reporting tools; 
+- provide training on data submission through the e-MARIS system;
+- follow up on the development of the national fisheries management system.
+
+In addition to the training sessions, Kenya provided an update on the development of the Kenya Fisheries Management Platform, which was first presented in 2025. The platform continues to be progressively developed and is intended to integrate data from multiple fisheries information systems, including coastal fisheries Catch Assessment Survey (CAS) data, logbook data, frame survey data, and industrial fisheries datasets. Once fully operational, the system is expected to improve data management, facilitate data validation and reporting, and enhance the overall quality and accessibility of fisheries information.
+
+### Main findings and Priority Actions
+
+The challenges faced by Kenya are primarily associated with weaknesses in data collection and processing systems, as well as limited human and institutional capacity. These constraints continue to affect the quality, completeness, and timeliness of fisheries data reporting and impede the effective implementation of reporting requirements.
+Follow-up action and recommendations:
+
+- review the historical datasets for coastal fisheries to improve consistency and reliability of reported data:  
+  -	optimise fisheries data collection processes to maximise sampling effectiveness; 
+  -	strengthen training programmes for enumerators, particularly in fish species identification;
+      
+- enhance collaboration with NGOs involved in fisheries sampling and research activities;
+- resubmit the 2024 fisheries datasets after addressing identified inconsistencies, including:
+
+  -	harmonisation of datasets reported under 1DR, 1DI, and 1RC Forms;
+  - consolidation of catch datasets, particularly 1RC and 3CE datasets;
+  -	separation of purse seine fisheries data by fishing mode;
+      
+- completion of 3DA forms using the appropriate reporting codes and species disaggregation procedures;
+- strengthen liaison with vessel owners to obtain missing size-frequency data, particularly for purse seine fisheries;
+- review and update ROS datasets using the latest reporting formats;
+- reconstruct historical ROS observer reports for longline fisheries using the official IOTC reporting forms;
+- develop a centralised repository system for the storage and management of ROS data;
+- review and update the Drifting Fish Aggregating Device (FAD) management plan using the IOTC template;
+-	compile and submit data related to chartered vessels in accordance with Requirement 3.2 of the applicable reporting framework.
+
+## Comoros
+
+### Background and Objectives
+
+The mission was initiated by the Secretariat following the identification of Comoros as a CPC with limited fisheries data processing capacity. The primary objectives were to evaluate current data management practices, identify areas requiring improvement, and support national authorities in strengthening data processing and reporting.
+
+The objectives of the mission were to:  
+
+1.  Assess the data processing systems of Comoros, including the data collection, storage, and processing mechanisms in use,
+2. 	Follow up on the systems implemented under the World Bank project that concluded in 2021,
+3.  Identify the most appropriate approaches to improve the existing systems, and
+4.  Review the data available to assess whether Comoros could be considered as a case-study for the activity focusing on coastal fishery data processing planned under the EU-funded project EC1350.
+
+Limited progress has been made in the development of the Comoros fisheries sector over recent years, and the data processing system established through a joint IOTC-OFCF mission has undergone only minor modifications.
+
+### Main findings and Priority Actions
+
+- The Secretariat will provide Comoros with information on conversion factors for fish products and the length-weight parameters for short-billed spearfish (SSP)
+- The last boat frame survey and census was conducted in 2018, in Comoros. Since then, there may have been changes in the number and composition of vessels by type. Comoros is therefore encouraged to undertake a new boat frame survey to update the national boat registry, with a major focus on the motorised vessels
+- Update Comoros data in the IOTC databases by the Secretariat using the defined 5 deg x 5 deg grid coding system (i.e., grid code 6210040)
+- Work in collaboration with Comoros to develop some R functions to strengthen and update validation and verification procedures for data quality control 
+- Review available data for the period 2012-2015, including sampling, effort, and catch data held in the national data repository, and evaluate the current sampling strategy, including post-stratification methods
+- Re-develop the estimation module with ArtFishR and develop a visualisation and data export tool (Shiny application) under the IOTC project framework
+- Potential interest to develop a pilot project using light GPS trackers in collaboration with fishermen to better understand the spatial dynamics of Comorian fishery activities
+- Develop an inventory and monitoring system for AFADs, including the potential use of buoys equipped with echo-sounders.
+
+# Madagascar
+
+### Background
+
+The mission reviewed progress in fisheries data collection, processing and IOTC reporting. Visits and consultations in Tamatave and Antananarivo confirmed that resource constraints, institutional disruption and cyclone damage continue to affect data coverage and continuity. The immediate priority is to consolidate the existing system through achievable sampling requirements, documented estimation methods and secure data management before larger investments are undertaken.
+
+### Main findings
+
+**Sampling and estimation**. The routine network is geographically unbalanced, with no coverage in the south-west. Numerous fishing units and demanding sample targets place considerable pressure on individual enumerators. Concerns about the 2023 frame survey have led to continued reliance on the 2012 survey and local adjustments. Raising factors and the treatment of unsampled regions, missing periods and fleet changes require documentation and review.
+
+**Data quality and continuity**. Industrial landing weights provide extensive coverage, but should be reconciled with logbooks; discards require separate collection. The closure of the Tuna Statistics Unit in Antsiranana in 2022 disrupted fisheries monitoring, reduced technical capacity and resulted in the loss of access to historical data and processing software. Currently the data collectors rely largely on paper and Excel, without systematic secure backups. The paper and excel sheets are not uniform across the country. Any electronic tools used need to provide for all of the IOTC data requirements (i.e., catch, effort and biological sampling).
+
+**Complementary data and biological sampling**. WWF records from southern areas, including time series extending to 2012, could help address geographical and historical gaps after methods and coverage are assessed. Ministry counterparts expressed interest in biological sampling. Practical fin-clip training was provided and equipment left with the Tamatave team, pending formal approval.
+
+### Priority actions
+
+- Review fishing-unit definitions, geographical coverage and sampling targets against available staff and resources
+- Introduce common forms and harmonised species and gear codes linked to local names, supported by identification and measurement training
+- Document the raising method through worked examples and prepare standard protocols and reference lists before the next frame survey
+- Consolidate current datasets, establish routine backups and inventory historical records for phased recovery
+- Pilot sustainable electronic collection with offline entry, validation and secure transfer before progressing towards an integrated national database
+- Institutional control of data, documentation and administrator access, together with funded maintenance, should be explicit requirements
+- Agree with WWF how compatible records may contribute to national estimates
+- Seek formal approval for genetic and morphometric sampling and finalise protocols
+- Designate a ministry focal point and train a core group able to retain and share technical skills
+- Subject to resources, IOTC follow-up should support sampling design, estimation, standard forms, electronic pilots and biological sampling.
+
+## Oman
+
+### Background and Objectives
+
+Oman's fisheries data collection and management systems have several recognised limitations that contribute to uncertainty in the data reported to the IOTC. In particular, the nominal catch and catch-effort data show a substantial increase in catches and catch rates in 2020, with both remaining at elevated levels thereafter. The IOTC and its Scientific Committee therefore requested a Secretariat mission to support the review of data collection and processing procedures. Since 2024, Oman has been reviewing and improving these systems to address IOTC reporting requirements and national information needs.
+
+The objectives of the mission were to:
+
+1.	Review the updates made by the data and statistics department of the Omani Ministry of Agriculture, Fisheries, and Water Resources (MAFWR) in relation to current IOTC reporting requirements, and identify remaining reporting gaps and bottlenecks;
+2.	Assess progress in data handling and reporting, particularly the recently developed database for industrial fisheries; 
+3.	Examine the methodologies currently used by the department and identify opportunities to improve reporting to the IOTC;
+4.	Review port sampling arrangements, including sampling coverage and gaps in data collection;
+5.	Observe field data collection at selected landing sites together with colleagues from MAFWR's data and statistics department.
+
+### Landing sites visited
+
+The sites of Qurayyat, Sur and Al Ashkharah were visited to observe landing activities and discuss routine data collection issues with fishers and local ministry officials. Qurayyat serves skiffs from the artisanal fleet, while Sur and Al Ashkharah serve both skiffs and dhows from the artisanal and coastal fleets. The field visits were complemented by discussions at the ministry on data processing procedures and practical training for MAFWR staff on the IOTC reporting forms.
+
+#### Visits to landing sites
+
+The three sites provided an opportunity to examine data collection under different local conditions. At each site, fish being landed were observed and procedures with local government officials, many of whom were also responsible for collecting the data, were discussed. Each site was in a different governorate. Qurayyat, in the governorate of Muscat, serves as a principal regional landing hub for skiffs. Landing sites within each governorate are organised around a main hub, although catches landed at smaller sites are currently sold locally. Plans are being considered to transport these catches to the main hubs for auction. Observations at the landing sites helped clarify how some collection practices could introduce bias into the subsequent estimates. In particular, the handline category combined at least two distinct types of fishing gear: one used to catch tuna and another used for smaller grouper and snapper species. Treating these as a single category may obscure differences in fishing activity and catch composition. The ROs also directly observed cases of species misidentification, indicating a need for further training. Discussions at all three sites were open, and local officials made considerable efforts to explain their procedures and answer questions.
+
+#### Central Fish Market
+
+A visit was also conducted at the Central Fish Market near Muscat, which handles approximately 40 tonnes of fresh fish daily. Fish are transported from landing sites, sorted and checked for quality on arrival, and sold through an auction system. Priority is given to the domestic market, while exports are subject to specific conditions, including restrictions applying to large tunas. The market and its auction records could provide a complementary source of information for cross-checking fisheries production and trade data. These records appear to be available to MAFWR. However, their integration into the fisheries data workflow and their use in compiling national statistics remain unclear.
+
+### Methodological discussions and findings
+
+Oman currently uses two databases to manage fisheries data: one for the artisanal and coastal fleets, and another for the industrial fleet operating outside Omani national waters. The artisanal fleet comprises approximately 16,000 skiffs under 8 m in length and an unspecified number of dhows without cabins. The coastal fleet consists of approximately 650 dhows with cabins. The industrial fleet comprises six purse seiners, three longliners and two support vessels.
+The industrial fisheries database was developed this year, reflecting the relatively recent expansion of this part of the sector. It is currently installed on a single laptop, with wider deployment progressing slowly because of the required security checks. A dedicated computer within the ministry is planned for data entry.
+
+Several reporting issues remain unresolved. Submissions need to be checked each month to ensure that all required catch, Drifting Fish Aggregating Device (DFAD) activity and observer logbooks have been received. Some industrial fisheries data identified as missing by the IOTC cannot be recovered because they were not collected in the original logbooks. Bycatch and discard reporting also require attention, as the longline logbooks do not currently contain this information. Further training is needed, and there are plans to deploy observers on longliners to provide independent verification of reported data.
+
+Reporting coverage for the coastal fleet is particularly limited. Fewer than ten vessels report each month, and these submissions cannot be considered representative of the fleet. Artisanal fisheries data are collected by staff operating within each governorate, but routine collection is limited to landings. Some collectors also record fishing gear and time at sea on their own initiative; these variables are not collected systematically.
+
+Total fleet catches are estimated by raising observed landings using the probability of fishing and the number of vessels. The probability of fishing is derived from a telephone survey in which licence holders are asked whether they fished on the previous day. The current estimates assume six non-fishing days per month. This may underestimate the number of non-fishing days and will be reviewed through a re-examination of the data, with additional collection if necessary.
+
+Species misidentification and inappropriate gear aggregation are further potential sources of bias in the catch estimates. Both issues were under investigation at the time of the mission, and the landing-site observations provided practical examples to inform this work.
+
+### Upcoming database changes
+
+Oman is in the process of developing a ministry-wide data infrastructure bringing together the existing fisheries, agriculture and other databases within a common framework. For fisheries, the platform is intended to allow fishers to apply for and pay for their fishing licences, and submit the associated reports. Information submitted through the platform would feed into the existing databases.
+
+Under the proposed arrangements, fishers would be required to enter catch and trip information before selling their catch. This could provide more timely information on fishing trips, catches and species composition. Its reliability will, however, depend on the quality of the declarations. Species misidentification and inaccurate reporting remain concerns, particularly if users receive insufficient training.
+
+Oman was therefore encouraged to maintain the existing collection systems in parallel while the new platform is tested and refined.
+
+### Outcomes
+
+The main outcomes of the mission were:
+
+1.	**Assessment of fisheries data collection and reporting systems**. The mission reviewed data management arrangements for the artisanal, coastal and industrial fleets and identified gaps affecting the completeness, reliability and representativeness of submissions to the IOTC;
+2.	**Identification of potential biases in catch estimates**. The review identified assumptions about fishing activity, species misidentification and inappropriate gear aggregation as priorities for further investigation and refinement of the estimation methods;
+3.	**Identification of improvements needed in industrial fisheries reporting**. The review of the recently developed database identified incomplete logbook submissions, historical data that cannot be recovered, and gaps in bycatch and discard reporting. Further training and independent verification through observer coverage are needed;
+4.	**Assessment of landing-site data collection practices**. Visits to Qurayyat, Sur and Al Ashkharah provided direct observations of field procedures and confirmed weaknesses in species identification and gear classification. The wider review also identified particularly low reporting coverage for the coastal fleet;
+5.	**Support for IOTC reporting capacity**. Ministry staff received practical training on the IOTC reporting forms. The discussions also identified opportunities to improve data handling and reporting procedures;
+6.	**Identification of considerations for the transition to an integrated data system**. The mission reviewed plans to link licensing, trip reporting and catch declarations through a ministry-wide platform. Maintaining the existing collection systems in parallel was recommended while the new arrangements are tested and refined.

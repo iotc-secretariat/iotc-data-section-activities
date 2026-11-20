@@ -1,9 +1,9 @@
-# Appendix I: Main Activities related of the Data Section carried out in 2026 {#AppDataSectionActivities}
+# Appendix I: Main Activities of the Data Section in 2026 {#AppDataSectionActivities}
 
 ```{r DSActivities}
 capacity_building_table <- data.table::fread("../data/iotc_data_section_activities_2026.csv")
 
-block_caption("Summary of data section activities held in late 2026", 
+block_caption("Summary of data section activities held in 2026", 
               style = "Table Caption", 
               autonum = run_autonum(seq_id = 'tab', 
                                     bkm = "DSActivities", 

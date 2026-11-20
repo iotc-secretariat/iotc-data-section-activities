@@ -1,0 +1,15 @@
+# Appendix V: Progress on WPDCS21 Recommendations {#RecProgress}
+
+```{r Progress}
+progress <- data.table::fread("../data/progress_since_wpdcs21.csv")
+
+block_caption("Recommendations from the 21st IOTC Working Party on Data collection and Statistics (WPDCS21) to the 28th Scientific Committee (SC28), and responses and follow-up by the 30th session of the Commission (30)", 
+              style = "Table Caption", 
+              autonum = run_autonum(seq_id = 'tab', 
+                                    bkm = "Progress", 
+                                    pre_label = "Tab. A", 
+                                    prop = fp_text_lite(bold = TRUE))
+)
+FlexouilleLaTableMonDalon(progress) |> flextable::merge_v(j = 1) |> flextable::width(width = c(1.5, 0.7, 1.5, 0.6, 1.5, 0.6, 1.5))
+```
+
