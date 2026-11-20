@@ -20,7 +20,7 @@ In parallel, Tanzania is working towards harmonising the fisheries data manageme
 
 ### Main findings and Priority Actions
 
-The tasks presented by Tanzania are in early stage and required further review. However, the involvement of stakeholders in the implementation process are beneficial.
+The activities presented by Tanzania are at an early stage and require further review. However, the involvement of relevant stakeholders in the implementation process is beneficial
 
 The follow-up actions and recommendations:
 
@@ -90,7 +90,7 @@ Limited progress has been made in the development of the Comoros fisheries secto
 
 ### Main findings and Priority Actions
 
-- The Secretariat will provide Comoros with information on conversion factors for fish products and the length-weight parameters for short-billed spearfish (SSP)
+- The Secretariat will provide Comoros with information on conversion factors for fish products and the length-weight parameters for shortbill spearfish (*Tetrapturus angustirostris*)
 - The last boat frame survey and census was conducted in 2018, in Comoros. Since then, there may have been changes in the number and composition of vessels by type. Comoros is therefore encouraged to undertake a new boat frame survey to update the national boat registry, with a major focus on the motorised vessels
 - Update Comoros data in the IOTC databases by the Secretariat using the defined 5 deg x 5 deg grid coding system (i.e., grid code 6210040)
 - Work in collaboration with Comoros to develop some R functions to strengthen and update validation and verification procedures for data quality control 
@@ -99,7 +99,7 @@ Limited progress has been made in the development of the Comoros fisheries secto
 - Potential interest to develop a pilot project using light GPS trackers in collaboration with fishermen to better understand the spatial dynamics of Comorian fishery activities
 - Develop an inventory and monitoring system for AFADs, including the potential use of buoys equipped with echo-sounders.
 
-# Madagascar
+## Madagascar
 
 ### Background
 
@@ -109,7 +109,7 @@ The mission reviewed progress in fisheries data collection, processing and IOTC 
 
 **Sampling and estimation**. The routine network is geographically unbalanced, with no coverage in the south-west. Numerous fishing units and demanding sample targets place considerable pressure on individual enumerators. Concerns about the 2023 frame survey have led to continued reliance on the 2012 survey and local adjustments. Raising factors and the treatment of unsampled regions, missing periods and fleet changes require documentation and review.
 
-**Data quality and continuity**. Industrial landing weights provide extensive coverage, but should be reconciled with logbooks; discards require separate collection. The closure of the Tuna Statistics Unit in Antsiranana in 2022 disrupted fisheries monitoring, reduced technical capacity and resulted in the loss of access to historical data and processing software. Currently the data collectors rely largely on paper and Excel, without systematic secure backups. The paper and excel sheets are not uniform across the country. Any electronic tools used need to provide for all of the IOTC data requirements (i.e., catch, effort and biological sampling).
+**Data quality and continuity**. Industrial landing weights provide extensive coverage, but should be reconciled with logbooks; discards require separate collection. The closure of the Tuna Statistics Unit in Antsiranana in 2022 disrupted fisheries monitoring, reduced technical capacity and resulted in the loss of access to historical data and processing software. Currently the data collectors rely largely on paper forms and Excel, without systematic secure backups. The paper and excel sheets are not uniform across the country. Any electronic tools used need to provide for all of the IOTC data requirements (i.e., catch, effort and biological sampling).
 
 **Complementary data and biological sampling**. WWF records from southern areas, including time series extending to 2012, could help address geographical and historical gaps after methods and coverage are assessed. Ministry counterparts expressed interest in biological sampling. Practical fin-clip training was provided and equipment left with the Tamatave team, pending formal approval.
 
@@ -146,7 +146,7 @@ The sites of Qurayyat, Sur and Al Ashkharah were visited to observe landing acti
 
 #### Visits to landing sites
 
-The three sites provided an opportunity to examine data collection under different local conditions. At each site, fish being landed were observed and procedures with local government officials, many of whom were also responsible for collecting the data, were discussed. Each site was in a different governorate. Qurayyat, in the governorate of Muscat, serves as a principal regional landing hub for skiffs. Landing sites within each governorate are organised around a main hub, although catches landed at smaller sites are currently sold locally. Plans are being considered to transport these catches to the main hubs for auction. Observations at the landing sites helped clarify how some collection practices could introduce bias into the subsequent estimates. In particular, the handline category combined at least two distinct types of fishing gear: one used to catch tuna and another used for smaller grouper and snapper species. Treating these as a single category may obscure differences in fishing activity and catch composition. The ROs also directly observed cases of species misidentification, indicating a need for further training. Discussions at all three sites were open, and local officials made considerable efforts to explain their procedures and answer questions.
+The three sites provided an opportunity to examine data collection under different local conditions. At each site, fish being landed were observed and procedures with local government officials, many of whom were also responsible for collecting the data, were discussed. Each site was in a different governorate. Qurayyat, in the governorate of Muscat, serves as a principal regional landing hub for skiffs. Landing sites within each governorate are organised around a main hub, although catches landed at smaller sites are currently sold locally. Plans are being considered to transport these catches to the main hubs for auction. Observations at the landing sites helped clarify how some collection practices could introduce bias into the subsequent estimates. In particular, the handline category combined at least two distinct types of fishing gear: one used to catch tuna and another used for smaller grouper and snapper species. Treating these as a single category may obscure differences in fishing activity and catch composition. Some cases of species misidentification were also observed during the visits, indicating a need for further training. Discussions at all three sites were open, and local officials made considerable efforts to explain their procedures and answer questions.
 
 #### Central Fish Market
 

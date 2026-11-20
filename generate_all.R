@@ -33,6 +33,6 @@ header_text <- enc2utf8(doc_number)
 replace_header(paste0("./outputs/", document), header_text)
 
 # Generate PDF
-docx_to_pdf(docx = document)
+docx_to_pdf(docx = paste0("./outputs/", document))
 
 

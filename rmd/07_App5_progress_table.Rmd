@@ -1,4 +1,4 @@
-# Appendix V: Progress on WPDCS21 Recommendations {#RecProgress}
+# Appendix V: Progress on WPDCS21 Recommendations {#progress}
 
 ```{r Progress}
 progress <- data.table::fread("../data/progress_since_wpdcs21.csv")

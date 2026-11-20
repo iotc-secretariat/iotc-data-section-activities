@@ -11,6 +11,5 @@ The WPDCS is invited to:
 
 # Abstract
 
-During 2026, the IOTC Data Section conducted five in-country technical assistance missions and organised three workshops to support CPCs in fisheries data collection, processing and reporting, including under the Regional Observer Scheme. The Secretariat also participated in external technical meetings and continued work on data management, reporting tools and information systems. This paper summarises the main activities and follow-up priorities, with detailed activity records, requests and recommendations presented in appendices.
+During 2026, the IOTC Data Section conducted five in-country technical assistance missions and organised three workshops to support CPCs in fisheries data collection, processing and reporting. Alongside the preparation and dissemination of datasets for IOTC scientific and technical meetings, the Secretariat continued to develop reporting and validation tools, modernise databases and improve data management and dissemination services. These activities were complemented by cooperation with partner organisations and work supported through externally funded projects. This paper summarises the main activities undertaken, data-related requests referred to the WPDCS and progress on recommendations from WPDCS21, with supporting information provided in the appendices.
 
-<!-- **[Update with verified data management, website, project and consultancy achievements before publication.]** -->
