@@ -80,5 +80,8 @@ bold_style <- fp_text(bold = TRUE)
 ```{r child = "07_App5_progress_table.Rmd"}
 ```
 
+\pagebreak
 
+```{r child = "07_App6_projects.Rmd"}
+```
 
