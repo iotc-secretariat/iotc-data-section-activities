@@ -18,7 +18,7 @@ source("https://raw.githubusercontent.com/iotc-secretariat/iotc-secretariat-reso
 source("https://raw.githubusercontent.com/iotc-secretariat/iotc-secretariat-resources/refs/heads/main/r_functions/rmd_to_docx/convert_docx_to_pdf.R")
 
 # File title
-doc_number <- "IOTC-2026-WPDCS22-07_Rev2"
+doc_number <- "IOTC-2026-WPDCS22-07_Rev3"
 doc_title  <- "IOTC_data_section_activities"
 document   <- paste0(doc_number, "-", doc_title, ".docx")
 
