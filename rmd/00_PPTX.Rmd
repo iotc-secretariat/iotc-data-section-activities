@@ -1,0 +1,41 @@
+---
+title: "IOTC Data Section Activities and Follow-up on Data-Related Requests and Recommendations"
+author: "[IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)"
+always_allow_html: true
+---
+  
+```{r general_options,echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, tidy.opts = list(width.cutoff=60), tidy=TRUE, size = "small", fig.width = 12, fig.height = 6.75)
+knit_hooks$set(inline = function(x) {prettyNum(x, big.mark=",")})
+```
+
+---
+
+## Capacity Development Activities
+
+- 5 in-country missions (COM, KEN, MDG, OMN, TZA)
+- 3 technical workshops (PS, PS, GN)
+- Virtual technical meetings
+- External meetings (UE, FAO)
+
+---
+
+## Data Management Activities
+
+- Improved [guidelines for reporting fisheries statistics](https://data.iotc.org/reference/guidelines/stats/index.html)
+- Developed [guidelines for Regional Observer Scheme (ROS) data](https://data.iotc.org/reference/guidelines/ros/index.html)
+- [IOTC Reference Data Catalogue](https://data.iotc.org/reference/latest/index.html)
+- Reporting forms GitHub repository [`iotc-data-forms`](https://github.com/iotc-secretariat/iotc-data-forms)
+- Revised [form descriptions](https://data.iotc.org/reference/form-descriptions/index.html)
+
+  - Updated [Form 7PR](https://data.iotc.org/reference/form-descriptions/stats/Form-7PR.html)
+  - Proposed extended [Form 1RC](https://data.iotc.org/reference/form-descriptions/stats/Form-1RC.html)
+  
+--- 
+
+## Data Validation
+
+
+--- 
+
+## Data Management and Dissemination

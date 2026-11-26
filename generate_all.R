@@ -36,3 +36,17 @@ replace_header(paste0("./outputs/", document), header_text)
 docx_to_pdf(docx = paste0("./outputs/", document))
 
 
+#-------------------------------------------
+#-------------- Presentation ---------------
+#-------------------------------------------
+### PPTX
+render("rmd/00_PPTX.Rmd", 
+       output_format = powerpoint_presentation(reference_doc = "../templates/ppt_template.potx", slide_level = 2),
+       output_dir    = "outputs/ppt/", 
+       output_file   = paste0(doc_number, "-", doc_title, ".pptx")
+       )
+
+
+
+
+
